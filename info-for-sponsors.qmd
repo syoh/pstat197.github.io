@@ -1,5 +1,5 @@
 ---
-title: "Sponsor a project"
+title: "Propose a project"
 editor: visual
 ---
 

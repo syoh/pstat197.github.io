@@ -54,9 +54,9 @@ Project mentors should be able to provide:
 
 -   at least one representative who is available to meet for one hour weekly or biweekly with the project team (virtual meetings are fine) during the working period (January -- June);
 
--   (non-academic advisors only:) a mandatory participation fee of \$1,500 to support the project showcase, and prizes for best projects
+-   (*non-academic advisors only:*) a **mandatory participation fee of \$1,500** to support the project showcase and prizes for best projects
 
-Note that it is possible for project mentors to participate entirely online, and mentors can choose to meet with students either on Zoom or equivalent, or in person.
+Note that it is possible for project mentors to participate entirely online, and mentors can choose to meet with students either on Zoom or equivalent, or in person. **We welcome both local and long-distance mentors** to participate in the capstone.
 
 UCSB provides:
 
@@ -64,7 +64,7 @@ UCSB provides:
 
 -   at least one faculty or graduate student advisor to join project meetings and assist students in meeting project goals;
 
--   student research team matched to the project based on interests and skills;
+-   student research team matched to the project based on interests and skills; 
 
 -   meeting space and research computing resources.
 

@@ -20,7 +20,6 @@
     "section": "",
     "text": "Listed alphabetically by project sponsor.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -32,7 +31,6 @@
     "section": "Allthenticate",
     "text": "Allthenticate\nQuantifying Security - Visualizing Usability of Allthenticate\nStudent team: Akshat Ataliwala, Calvin Jenkins, Bosco De Enrique Romeu, and Yuki Yamazaki\nProject advisors: Chad Spensky and Leron Reznikov\nAllthenticate provides a proximity-based app-enabled locking/unlocking system in place of traditional badge or lock-and-key security systems. The primary objectives of this project are to quantify the benefits that our Allthenticate’s security product provides and identifying opportunities to improve the Allthenticate user experience.\nFirst, we want to quantify how much of an improvement Allthenticate’s security solution provides over existing solutions. This includes tasks such as measuring time saved by using Allthenticate, tracking changes in Bluetooth connection, and monitoring app status. We will analyze the user data provided by the logs from readers, as well as the phone and computer apps. Second, we intend to increase how well the product is working. Allthenticate is constantly improving, and with user-happiness being at the core of the company’s values, we want to cater the best experience for the user. An example of this could be predicting a user’s app behaviors to personalize their UI to give them the most seamless experience for their particular needs.\nUsing preliminary product data, we developed a visualization dashboard for real-time monitoring of a client’s system activity.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -44,7 +42,6 @@
     "section": "AppFolio",
     "text": "AppFolio\nDeep Learning Recommendation Systems for Property Management Software\nStudent team: Alyssa Keehan, Jordan Tran, Joshua Harasaki, Philip Carey, and Romina Fareghbal\nProject advisors: Shyr-Shea Chang, Soeren Thust, and Erika McPhillips\nFor this project, we created a recommender system that predicts users interests and recommends properties to users based on previous user interactions and property features. Recommender systems are among the most powerful machine learning systems that are used to help users identify items they may be interested in and also helps companies increase interaction and sales. Our sponsor is AppFolio, a tech company based in Santa Barbara that provides innovative software, services, and data analytics to the real estate industry.\nBuilding this model will allow AppFolio to analyze the results of our recommender system to assess how interaction data can be used to better their products. We explored multiple models including the Bilateral Variational Autoencoder (BiVae), TriVae, Visual Bayesian Personalized Ranking (VBPR), and Deep Cross Network (DCN) in an effort to achieve the highest prediction accuracy using 16 property features from our given dataset and images. Ultimately, we want to integrate our model into the Santa Barbara property website, which was built by the AppFolio Sponsored CS Capstone team.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -56,7 +53,6 @@
     "section": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)",
     "text": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)\nInteractive Spatio-Temporal Visualization of Long-Term Physical Characteristics of California Coastal Waters\nStudent team: Prerana Kottapalli (PK), Mallika Gupta, Teresa Gonzalez, and Dante Coletta\nProject advisors: Erin Satterthwaite and Trevor Ruiz\nThe goal of this project is to visualize the variation of ocean chemistry over time and space in the California current to help understand changing ocean conditions and identify potential impacts on marine life. We will create an exploratory tool using long-term oceaongraphic data collected by CalCOFI. Data includes quarterly measurements of oceanic samples, at a depth of up to 1,000m, collected from 1970-2020. Parameters explored are dissolved oxygen, temperature, salinity, and chlorophyll.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -68,7 +64,6 @@
     "section": "Carpe Data",
     "text": "Carpe Data\nMulti-class Claims Activity Classification Based on HTML data\nStudent team: Annie Huang, Anum Damani, Rithvik Vobbilisetty, Alex Rudolph, and Tyler Chia\nProject advisors: Crystal Zhang, Kevin Neal, and Joshua Bang\nInsurance companies typically receive a significant number of claims each year. By automatically flagging and classifying web pages that have information potentially relevant to the claims, our project would help to significantly reduce the amount of manual inspection required for potential cases of insurance fraud. Our project focuses on building machine learning classification models that predict and flag whether or not a web page contains evidence about a fraud claim, and identify the specific type of potentially fraudlent activity that is present.\nOur dataset contained 42,485 web pages potentially containing claimant activity information identified through proprietary search methods and manually labeled. We classified each page into one of several classes of potentially fraudulent activity. Ultimately, our best performing model was our SVM classifier with a weighted average precision of 85%.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -80,7 +75,6 @@
     "section": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)",
     "text": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)\nBig Bee: Hair Recognition and Quantification\nStudent team: Harper Klauke, Jonathan Wong-Lau, Harleen Kaur, and Nicholas Alexander\nProject advisors: Katja Seltmann and Joshua Bang\nBee species are decreasing in both number and diversity. As important pollinators, bees are responsible for creating and maintaining the ecosystems that many animals and humans rely on. Examining their physical traits and the differences between species will allow us to study the resiliency of different bees using computer vision and machine learning. Our objective in this project is to use computer vision techniques to detect and count bee hairs from high-resolution lateral images.\nWe worked with 550 high resolution lateral bee images that were gathered from various institutions for the Big Bee Library, an online repository of bee image, trait, and specimen data. Contributors included the Museum of Comparative Zoology, Harvard University, University of Kansas Natural History Museum Entomology Division, and the UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration. This research was supported by the National Science Foundation: Extending Anthophila research through image and trait digitization (Big-Bee) project (DBI2102006).",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -92,7 +86,6 @@
     "section": "Center for Information Technology and Society (CITS)",
     "text": "Center for Information Technology and Society (CITS)\nAnalyzing Changes in Social Media Usage Behavior\nStudent team: Eoin Hayes, Qiru Hu, Jasmine Kwok, Lucas Nguyen, and Xavier Speropoulos\nProject advisors: CITS Center, Qing Huang, and Erika McPhillips\nIn 2020, The Social Dilemma became the most popular movie on Netflix. The documentary reveals the downsides of the major social media platforms. The goal of this project is to analyze the impact of The Social Dilemma on its audience’s attitudes towards social media. Does watching this movie increase/decrease/not change people’s social media usage?\nTo answer this question, we performed a series of statistical analyses on user-generated posts from Twitter and Reddit. Although our study reveals a difference in the user behavior patterns between the two platforms, the statistical results suggest that, based on the social media data, the movie did not change people’s social media usage.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -104,7 +97,6 @@
     "section": "Energy and Environment Transitions (ENVENT) Lab",
     "text": "Energy and Environment Transitions (ENVENT) Lab\nDemographic Predictors of Climate Opinion\nStudent team: Emma Franzblau, Annie Adams, Andrew Bissell, and Johnny Yu\nProject Advisors: Matto Mildenberger and Adam Waterbury\nThe aim of our project is to explore how demographic attributes are differentially predictive of climate opinion in different countries, continents, and time periods. We first cleaned and organized covariate data from 140+ surveys and merged the demographic information into existing data processing routines. Then we developed preliminary and exploratory predictive models to gain insights into our question of interest.\nWe were ultimately able to set the foundation for further exploration of the data in the next iteration of the project as a result of completing the necessary proof of concepts; which we did by honing in on the demographic of gender as it relates to various climate opinion metrics through different methods of modeling.\nSee our project poster here.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -116,7 +108,6 @@
     "section": "Earth Research Institute (ERI)",
     "text": "Earth Research Institute (ERI)\nCombining Computer Vision and Satellite Imagery to Detect Center Pivot Irrigation\nStudent team: Ashley Grinstead, Evan Bui, Tiffany Hsu, and Tristan Chen\nProject advisors: Kelly Caylor, Leron Reznikov, and Anna Boser\nIrrigated agriculture is expanding rapidly across southern Africa. Because this expansion is occurring without much regulation or monitoring, it’s not exactly clear where and when expansion is happening, or the fate of expanded agriculture. In most expansionary cycles, there is a boom-and-bust dynamic, where many investments fail quickly and only a few persist. The Earth Research Institute (ERI) at UCSB spans areas covering natural hazards, human impacts, earth system science, and earth evolution by collaborating across interdisciplinary departments on campus. Under the guidance of Kelly Caylor (Director of ERI and WAVES lab), we are undertaking a project to explore how center pivot-irrigated agriculture is expanding globally. We’re interested in mapping these dynamics over the recent years and monitoring them going forward.\nSee our project poster here.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -128,7 +119,6 @@
     "section": "Evidation",
     "text": "Evidation\nStress Indicators for Frontline COVID-19 Healthcare Workers\nStudent team: Priscilla Siow, Ali Vakilimafakheri, Sarah Schlund, and Eric Wang\nProject advisors: Eric J. Daza and Alex Franks\nUsing wearable, survey, and biomedical data from healthcare workers measured during the pandemic, we aim to identify variables indicative of stress such as sleep patterns, heart rate, PTSD, etc. We hope that our findings will give insights into how wearable technology can help detect stress in this population.\nThe features we used primarily came from wearable and survey data such as the Oura Ring, Daily Stress Measure, PTSD, Adverse Childhood Events (ACE), and Demographics datasets that were provided from Synapse database. We built two models: a mixed effects model that accounts for subject-specific baseline stress levels in predicting excess stress; and a logistic regression that identifies population-level indicators of stress.\n\n\n\nWearables Predict Stress in Frontline Healthcare Workers\nStudent team: Joshua Alvarado, Ian Gascon, Joanne Kim, Mac Kul, and Jessica Nguyen\nProject advisors: Julio Vega and Alex Franks\nWe are using data collected in “The Stress and Recovery in Frontline COVID-19 Health Care Workers Study.” Daily notifications prompted 365 participants to complete tasks through a REDCap study app including a Demographic Survey and a Daily Stress Measure and Work Shift Details survey.\nOur project objectives are twofold: identifying the main factors of stress (duration of sleep in different stages, heart rate, respiratory rate, and levels of oxygen saturation); and predicting whether a participant is stressed given those factors.\nSee our project poster here",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -140,7 +130,6 @@
     "section": "HG Insights",
     "text": "HG Insights\nProduct Recommendation on Scraped Usage Data\nStudent team: Atherv Gole, Cristian Razo, Eric Cha, Natasha Leodjaja, and Qimin Tao\nProject advisors: HG Insights, Rob Fox, and Lauren Wong\nThe primary goal of this project is to analyze patterns in product adoption to effectively engage with existing and/or potential customers. Our primary dataset consists of companies’ product quality ratings across the United States over a span of 20 years, ranging from 2001 to the present. Two of the main features we used are ‘signal score,’ which is a 1-3 score of how recently the product was observed, and ‘intensity’ which is a measure of how much a product is observed over time.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -152,7 +141,6 @@
     "section": "Neuroscience Research Institute (NRI)",
     "text": "Neuroscience Research Institute (NRI)\nModeling Neurodegeneration with Single Cell RNA Sequencing\nStudent team: Jake Stenger, Nancy Zha, and Sara Mandic\nProject advisors: Stella Glasauer, Megan Elcheikhali\nThis project aims to model neurodegeneration in brain organoids by single-cell RNA sequencing. Through the use of statistical methods we are aiming to compare differences in gene expression between control and mutant brain organoids. In addition we aim to identify cell populations that are more or less abundant in the mutant brain organoids. Thus, we are aiming to gain insight in disease mechanisms that lead to neurodegeneration.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -164,7 +152,6 @@
     "section": "Pricewaterhouse Coopers (PwC)",
     "text": "Pricewaterhouse Coopers (PwC)\nCompression of NLP-Domain Deep Learning Models\nStudent team: Yan Lashchev, Jorge Murillo, Nathan Roll, Lawrence Su, and Yangyi Zhang\nProject advisors: Robert Bernard and Erika McPhillips\nThe field of model compression has enjoyed many advancements in recent years, yet few reliable methods have been developed specifically for the natural language processing (NLP) domain. In this project, we provide a review of model compression techniques and develop custom NLP-specific compression methods. We demonstrate the implementation of our methods on a sentiment analysis task.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -176,7 +163,6 @@
     "section": "Sprague Lab",
     "text": "Sprague Lab\nDeep Image Reconstruction from Natural Scenes Dataset\nStudent team: James Du, Michael La, Connor Levenson, and Elise Nguyen\nProject advisors: Thomas Sprague and Sikun Lin\nWe leverage the recent progress made in text-to-image generation for deep image reconstruction. After building a joint-embedding model which maps the patient’s fMRI to a shared image-text space, we use a pre-trained decoder (LAFITE) which is able to recreate the stimulus image from the encoded vector.",
     "crumbs": [
-      "Home",
       "Projects",
       "2021-2022 Projects"
     ]
@@ -188,7 +174,6 @@
     "section": "",
     "text": "Contacts for 2025-2026 capstone\n\n\n\n\nKathleen M. Coburn, lecturer: project sponsorship and course information for 2025-2026 [email]\nEllery Wilkie, undergraduate advisor: applications, information for students, enrollment [email]\nParticipants listed by year, in alphabetical order by last name.",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -199,7 +184,6 @@
     "section": "2025-2026",
     "text": "2025-2026\n\nInstructor\nDr. Kathleen Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject advisors\nTBD\n\n\nProject mentors\n(in alphabetical order by last name)\n\nDr. Kathleen Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\nYan Lashchev, Undergraduate Program Advisor, Statistics",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -210,7 +194,6 @@
     "section": "2024-2025",
     "text": "2024-2025\n\nInstructors\nDr. Laura Baracaldo, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\nDr. Kathleen Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject advisors\n\nMichaela Alksne, UCSD Scripps Institute of Oceanography\nLucas Boyd, UCSB Political Science / 2035 Initiative\nLaura Harrison, UCSB Climate Hazards Center\nLarissa Heeren, SLO County Probation Dept.\nJames O’Brien, SoundEthics\nErin Satterthwaite, CalCOFI\nKatja Seltmann and Maddie Oswald, CCBER\nShraddhanand Shukla, Geography Department\nMichael Schmidt and Yvonne Baur, NationBuilder\nDerek Mendez, SLAC National Accelerator Laboratory\n\n\n\nProject mentors\n\nDr. Laura Baracaldo, Visiting Assistant Professor, Statistics\nDr. Kathleen Coburn, Lecturer, Statistics\nYan Lashchev, Undergraduate Program Advisor, Statistics\nJose Nino, DREAM Lab\nErika McPhillips, PhD Student, Statistics\nDr. Avani Tanna, Lecturer, Computer Science\nJeffrey Wu, PhD Student, Statistics\n\n\n\nStudents\n\nLeena-Karima Anqud\nAnshi Arora\nLiuqian Bao\nBennett Bishop\nXiaofeng Cai\nRebecca Chang\nChristina Hefan Cui\nKeon Dibley\nLuke Dillon\nJiajia Feng\nValerie de la Fuente\nTess Ivinjack\nAmy Ji\nRuizhe Jiang\nReese Karo\nNikhil Kuniyil\nJustin Lang\nDaniel Ledvin\nIvy Li\nCasey Linden\nNavin Lo\nKuan-I Lu\nWilliam Mahnke\nNazhah Mir\nSophia Mirrashidi\nJade O’Brien\nOwen Philliber\nSean Reagan\nParker Reedy\nJames San\nPramukh Shankar\nKasturi Sharma\nSophie Shi\nJiaxin Su\nShirley Wang\nJoseph Zaki\nWentao Zhang",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -221,7 +204,6 @@
     "section": "2023-2024",
     "text": "2023-2024\n\nInstructor\nDr. Laura Baracaldo, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject advisors\n\nJordan Tran, Appfolio\nNate Emery, CITRAL\nMichaela Alksne, Scripps Institution of Oceanography\nKatja Seltmann, CCBER\nShraddhanand Shukla, Climate Hazards Center, Geography Department\nMichael Schmidt, Nation Builder\nMatto Mildenberger, Political Science Department\nEric Leidersdorf, P3\nDerek Mendez, SLAC National Accelerator Laboratory\n\n\n\nProject mentors\n\nDr. Laura Baracaldo, Visiting Assistant Professor, Statistics\nDr. Alex Franks, Assistant Professor, Statistics\nYan Lashchev, Undergraduate Program Advisor, Statistics\nJose Nino, Data Science Student Advisor, Computer Science\nErika McPhillips, PhD Student, Statistics\nDr. Avani Tanna, Lecturer, Computer Science",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -232,7 +214,6 @@
     "section": "2022-2023",
     "text": "2022-2023\n\nInstructor\nDr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject advisors\nMaxim Ivanov and Bonnie Jin, Amgen\nAri Polakof, Appfolio\nErin Satterthwaite, California Cooperative Oceanic Fisheries Investigations\nAndy Chen and Amy Huynh, Carpe Data\nEleanor Caves and Todd Oakley, Caves Visual Ecology Lab\nKatja Seltmann, Cheadle Center for Biodiversity and Ecological Restoration\nGreg Husak and Shrad Shukla, Climate Hazards Center\nPatrick Green, Evolutionary Ecology and Marine Biology\nNorbert Leinfellner and Paula Sarmiento, Inogen\nArinbjörn Kolbeinsson and Eric Daza, Evidation Health\nSomayeh Dodge and Evgeny Noi, MOVE Lab\nEric Leidersdorf, Peak Performance Project\nDerek Mendez, Stanford National Accelerator Lab\n\n\nProject mentors\nDr. Trevor Ruiz, Statistics and Applied Probability\nDr. Alex Franks, Statistics and Applied Probability\nDr. Laura Baracaldo, Statistics and Applied Probability\nDr. Adam Waterbury, Statistics and Applied Probability\nEnbo Zhou, Geography\nErika McPhillips, Statistics and Applied Probability\nJoshua Bang, Statistics and Applied Probability\nMegan Elcheikhali, Statistics and Applied Probability\nRobin Liu, Statistics and Applied Probability\nGia Ahn, Statistics and Applied Probability\nYan Lashchev, Statistics and Applied Probability\n\n\nStudents\nSafiya Alavi, STSDS\nDaniel Badilla, STSDS\nEllie Burrell, STSDS\nBrian Che, STSDS\nAleksander Cichosz, ECON/STSDS\nFei Du, AMATH/STSDS\nBrian Fan, AMATH/STSDS\nKunxiao Gao, STSDS\nBernie Graves, STSDS\nYuer Hao, FINMS\nDisha Hauzaree, STSDS\nEdward Ho, STSDS\nEvan Ji, STSDS\nDingan Jiang, ECON/STSDS\nAria Kajeh, STSDS\nRaymond Lee, PBS/STSDS\nHannah Li, STSDS\nLily Li, STSDS\nYujie Li, STSDS/LING\nAlex Lim, STSDS\nJustin Liu, STSDS\nTianhong Liu, FINMS\nWilliam Long, STSDS\nAnya Macomber, STSDS\nAnkur Malik, STSDS\nVardan Martirosyan, MATCS\nLex Navarra, STSDS\nJennifer Park, ECACC/STSDS\nMira Patel, STSDS\nRyan Quon, STSDS\nAllester Ramayrat, STSDS\nGiselle Ramirez, ENVST/POLS\nNoa Rapoport, STSDS\nEitan Rashkovan, STSDS\nKaylin Roberts, STSDS\nShannon Rumsey, STSDS\nNealson Setiawan, STSDS\nThomas Shi, ACTSC\nKabir Snell, STSDS\nAshley Son, STSDS\nSofia Spasibenko, STSDS\nRyan Stofer, AMATH/STSDS\nSammy Suliman, AMATH/STSDS\nKassandra Trejo-Zamora, STSDS\nPiero Trujillo, STSDS\nLyndsey Umsted, STSDS\nJai Uparkar, STSDS/CPTCS\nJustin Vo, ECACC/STSDS\nRuoxin Wang, STSDS\nYuqing Xia, STSDS\nChanghee Yoon, STSDS\nTeo Zeng, PBS/AMATH\nChunting Zheng, AMATH/STSDS\nHaoming Deng, STSDS\nCaroline He, BIOCS\nDan Le, CMPSC\nAllen Wang, STSDS",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -243,7 +224,6 @@
     "section": "2021-2022",
     "text": "2021-2022\n\nInstructors\nDr. Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)\nDr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)\nDr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)\n\n\nProject advisors\nChad Spensky and Rita Mounir, Allthenticate\nShyr-Shea Chang and Soeren Thust, Appfolio\nErin Satterthwaite, California Cooperative Oceanic Fisheries Investigations\nCrystal Zhang and Kevin Neal, Carpe Data\nQing Huang, Center for Information Technology Research\nKatja Seltmann, Cheadle Center for Biodiversity and Ecological Restoration\nKelly Caylor, Anna Boser, and Ryan Avery, Earth Research Institute\nMatto Mildenberger, Energy and Environment Transitions Lab\nEric Daza, Evidation Health\nRob Fox and Lauren Wong, HG Insights\nStella Glasauer, Neuroscience Research Institute\nRebert Bernard, Pricewaterhouse Coopers\nTommy Sprague, Sprague Lab\n\n\nProject mentors\nDr. Trevor Ruiz, Statistics and Applied Probability\nDr. Alex Franks, Statistics and Applied Probability\nDr. Adam Waterbury, Statistics and Applied Probability\nLeron Reznikov, Computer Science\nSikun Lin, Computer Science\nErika McPhillips, Statistics and Applied Probability\nJoshua Bang, Statistics and Applied Probability\nMegan Elcheikhali, Statistics and Applied Probability\n\n\nStudents\nAnnie Adams, STSDS\nNicholas Alexander, STSDS\nJoshua Alvarado, STSDS\nAkshat Ataliwala, STSDS\nAndrew Bissell, STSDS\nEvan Bui, STSDS\nPhilip Carey, STSDS\nEric Cha, STSDS\nTristan Chen, STSDS\nTyler Chia, STSDS/ECON\nDante Coletta, STSDS\nAnum Damani, STSDS\nJames Du, PHYS/STSDS\nRomina Fareghbal, STSDS\nEmma Franzblau, POLS\nIan Gascon, FINMS/ECON\nAtherv Gole, STSDS\nMallika Gupta, FINMS\nJoshua Harasaki, STSDS\nEoin Hayes, STSDS\nAnnie Huang, LING/STSDS\nHarleen Kaur, ECON/STSDS\nAlyssa Keehan, STSDS\nJoanne Kim, STSDS\nHarper Klauke, STSDS\nMac Kul, STSDS\nJasmine Kwok, COMM/STSDS\nMichael La, STSDS/ECON\nYan Lashchev, AMATH\nNatasha Leodjaja, STSDS\nConnor Levenson, STSDS\nJorge Murillo, MATCS\nJessica Nguyen, STSDS\nNathan Roll, ECON/LING\nAlex Rudolph, STSDS\nSarah Schlund, STSDS/GEOG\nPriscilla Siow, STSDS\nXavier Speropoulos, STSDS\nJordan Tran, STSDS\nAli Vakilimafakheri, STSDS\nRithvik Vobbilisetty, STSDS\nEric Wang, STSDS\nJonathan Wong-Lau, ACTSC\nYuki Yamazaki, STSDS\nJohnny Yu, STSDS\nNancy Zha, STSDS\nYangyi Zhang, MTHSC/STSDS\nBosco De Enrique Romeu, UNDE\nTeresa Gonzalez, GEOGP\nAshley Grinstead, ENVST/GEOGP\nTiffany Hsu, ENVST\nQiru Hu, CMPSC\nCalvin Jenkins, CMPEN\nPk Kottapalli, PHYS\nSara Mandic, CMPSC\nElise Nguyen, COMM/ECACC\nLucas Nguyen, CMPSC/CMPSC\nJake Stenger, CPTCS\nLawrence Su, EE\nTimi Tao, STSDS",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -254,7 +234,6 @@
     "section": "2020-2021",
     "text": "2020-2021\n\nInstructors\nDr. Ambuj Singh, Computer Science (PSTAT197A/CMPSC190DD)\nDr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)\nDr. Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)\n\n\nProject advisors\nPeng-Yuan Lai and Soeren Thust, Appfolio\nErin Satterthwaite, California Cooperative Oceanic Fisheries Investigations\nCrystal Zhang, Carpe Data\nLubi Lenaburg, Center for Science and Engineering Partnerships\nKatja Seltmann and Michelle Lee, Cheadle Center for Biodiversity and Ecological Restoration\nEric Daza, Evidation Health\nLouis Tremblay, FLIR\nMike Lawrence, Invoca\nJulien Brun and Allison Horst, National Center for Ecological Analysis and Synthesis\nJuliana Acosta Uribe and Ken Kosik, Neuroscience Research Institute\nNamino Glantz and David Kerr, Sansum Diabetes Research Institute\n\n\nProject mentors\nDr. Ambuj Singh, Computer Science\nDr. Mike Ludkovski, Statistics and Applied Probability\nDr. Sang-Yun Oh, Statistics and Applied Probability\nDr. Alex Franks, Statistics and Applied Probability\nKate Kharitonova, Computer Science\nSikun Lin, Computer Science\nJoshua Bang, Statistics and Applied Probability\nJiajing Zheng, Statistics and Applied Probability\nChau Tran, Statistics and Applied Probability\n\n\nStudents\nNick Bachelder, STSDS\nAngel Chen, STSDS\nAmy Cho, ECON/STSDS\nRobin Hollingsworth, STSDS/ECACC\nZoe Holzer, STSDS\nJoanna Kim, STSDS\nKarsyn Lee, STSDS\nAdhitya Logan, STSDS\nAndrew Nguyen, STSDS\nNicholas Nunes, STSDS\nVikram Pasupathy, CMPSC/STSDS\nLia Ran, STSDS\nMitchell Rapaport, AMATH/STSDS\nCristian Razo, STSDS/PRMTH\nJake Simon, STSDS\nSamantha Solomon, FINMS\nSophia Sternberg, COMM/STSDS\nShuyun Tang, STSDS\nGavin Tieng, STSDS\nRomtin Toranji, STSDS\nMeng Vong, STSDS\nJason Yu, STSDS\nKaren Zhao, STSDS/ECACC\nAndrea Anez, CMPEN\nPriyanka Banerjee, CMPSC/STSDS\nPeter Bayerle, AMATH\nKaranveer Benipal, CMPSC\nMatthew Coleman, STSDS\nCibran De La Fuente, PHIL/LING\nShuyi Fang, LING/GERM\nSam Guo, FINMS/CMPSC\nHelen Huang, CMPSC/PHRMA\nShaka Kanenobu, CMPSC\nSaiprem Kathika, CMPEN\nLawrence Lin, STSDS\nManny Medrano, EE/PRMTH\nShivam Misra, PHYS\nSairisheek Muttukuru, CMPEN\nPriya Padmanabhan, CMPSC\nJay Patwardhan, AMATH\nAri Polakof, CMPSC/STSDS\nSurya Pugal, CMPSC\nAustin Quinn, CMPSC\nLeron Reznikov, CMPSC\nAndie Rupprecht, GEOGP\nNeil Sadhukhan, CMPEN\nVanessa Salgado Zavaleta, CMPSC\nEmily San Juan, PRMTH\nSamuel Sheridan, AMATH/STSDS\nMatthew Xu, STSDS\nRey Yue, CMPSC\nBill Zhang, CMPSC",
     "crumbs": [
-      "Home",
       "People"
     ]
   },
@@ -265,7 +244,6 @@
     "section": "",
     "text": "The goal of the capstone is to provide training in collaborative data science, hands-on research experience, and career development opportunities to students who are about to enter the job market or who are considering graduate school.\nThe capstone is designed primarily for senior students of any discipline having an intermediate level of experience with applied quantitative methods of any kind and some exposure to programming. It is not expected that students will have obtained any specialized background or completed advanced coursework prior to participating, and students from non-PSTAT major programs are encouraged to apply. Here you can find information on eligibility, how to apply, and program outcomes.",
     "crumbs": [
-      "Home",
       "Information for students"
     ]
   },
@@ -276,7 +254,6 @@
     "section": "How to apply",
     "text": "How to apply\nApplications open in Spring quarter and remain open through summer. To apply, simply fill out the application form linked below (the form will be live while applications are open).\n[Application form]\nApplications will be reviewed beginning August 1st, 2025 and on a rolling basis thereafter. An initial cohort will be notified by September 9th, 2025 and will be provided with add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. Once all seats in the course have been filled, the application will be closed.",
     "crumbs": [
-      "Home",
       "Information for students"
     ]
   },
@@ -287,7 +264,6 @@
     "section": "What to expect",
     "text": "What to expect\nStudents can expect to gain training and skills in collaborative data science and produce a strong work sample by the end of the program. All students will prepare a poster presentation for a public showcase of student work toward the end of the year. Posters will also be published online.\nDepending on the project, students may also contribute during or after the project work period to other outputs such as public repositories, software products, conference presentations, or publications.\nBesides project outputs, students receive mentorship from their project advisors throughout the course of the experiential learning component of the capstone. Students also gain access to the network of current and past participants and project sponsors for career development purposes.",
     "crumbs": [
-      "Home",
       "Information for students"
     ]
   },
@@ -298,7 +274,6 @@
     "section": "Prerequisites and eligibility",
     "text": "Prerequisites and eligibility\nThe prerequisites for the capstone are exposure to (1) computing, (2) statistics and probability, and (3) regression. Since the program is interdisciplinary and intended to be accessible to non-PSTAT majors, these requirements are not strictly tied to any specific courses.\nFor the PSTAT student, completion of regression analysis (PSTAT126) should suffice. For the non-PSTAT student, any prior experience with statistical concepts, quantitative models, and computing will be considered.\nStudents should be of junior or senior standing by the term they would begin the capstone (i.e., Fall of the year of application). A full-year commitment is expected to participate, so seniors expecting to graduate early may not be eligible; students who are able to commit to enrolling in all three courses will be prioritized for admission. Younger students, even if otherwise eligible, will be encouraged to reapply in a later year.\nStudents should have a strong academic record and be motivated to learn independently and work on a research problem.",
     "crumbs": [
-      "Home",
       "Information for students"
     ]
   },
@@ -309,7 +284,6 @@
     "section": "FAQ",
     "text": "FAQ\nHow are students selected for enrollment in the class?\nApplications are screened to ensure participation requirements are met: completion of prerequisites, good academic record, and junior or senior standing. Among students who meet these participation requirements, applications will be reviewed by a committee and evaluated based on their sample of prior work and their motivation for application to the program. Once the committee has obtained a final pool of potential candidates, students will be selected from that pool by random lottery.\nIs there a GPA requirement?\nYour GPA does contribute in determining eligibility to participate (a higher GPA corresponds to a better academic record), but there is not a hard cutoff.\nWhat happens if I am waitlisted?\nIf you are waitlisted, that means that you met all requirements to join the class but were ultimately not chosen in the random lottery. If so, you will be considered for any seats that open up before the start of the quarter; selection for these seats is also carried out by random lottery.\nAre there any specific languages/packages I need to know?\nNo. The requirement is that you have intermediate proficiency (use in 2+ courses or equivalent) in some language so that you are familiar with programming concepts and able to learn further skills semi-independently (i.e., with the help of a book or tutorial). Most students will have had some experience with R or Python, and some with similar languages such as Matlab, Mathematica, or Julia. However, what constitutes ‘experience’ is pretty broad, and can range from a few courses to a few years of use. Regardless of experience, almost everyone will develop new programming skills ‘on-the-job’ in the course of their projects. All projects are different and students do not need a specific background to succeed.\nAre there any recommended classes that would prepare me for the capstone?\nCMPSC 5A-B and PSTAT 100 are widely accessible data science courses that can be taken in sequence over the course of a year and generally will provide good preparation for the capstone and exposure to programming in Python. PSTAT students may elect to take the statistical learning course (PSTAT 131) for additional preparation. Non-PSTAT majors would benefit from any quantitative methods courses offered in their home department. More broadly, any course(s) that reinforce programming skills and data analysis will be beneficial.\nHow are students assigned to capstone projects in the program?\nStudents have the opportunity to review proposed project abstracts and specify a set of preferred assignments. Preferences are considered together with technical skills, domain backgrounds, and factors affecting group dynamics in forming project teams, so we cannot guarantee students will receive their top choices. Ultimately, project assignments are made at the discretion of instructors.\nWill I get a job or internship through the program if my project is successful?\nThis is not guaranteed. Project sponsors’ commitments conclude at the end of the academic year. In some instances, sponsors have the resources and interest to support summer interns or entry-level hires, but this is entirely at their discretion. We have had students recruited in the past this way, but they comprise a minority of all program participants.",
     "crumbs": [
-      "Home",
       "Information for students"
     ]
   },
@@ -318,14 +292,20 @@
     "href": "index.html",
     "title": "Data science capstone at UCSB",
     "section": "",
-    "text": "Note\n\n\n\nNote: The page is currently under construction as we implement updates for the upcoming 2025-2026 capstone class.\n\n\n\nApplications for the 2025-2026 capstone class are open until Friday, August 1st, 2025! Add codes will be distributed to admitted students on September 9th, 2025. Application form\nWelcome to the homepage for UC Santa Barbara’s data science capstone.\nThe capstone aims to provide students with hands-on research training and career development opportunities related to data science. It is equally suitable for students interested in entering the job market as it is for those considering graduate school – we partner with both industry and academic project advisors to offer research experiences spanning a breadth of application domains!\nFor participating students, the capstone is a year-long course sequence comprising two distinct portions: a preparatory course in data science topics and collaborative research skills (PSTAT197A/CMPSC190DD, offered Fall term) and two experiential learning courses in which students work in teams on interdisciplinary projects sponsored by an external partner and advised by a technical specialist (PSTAT197B-C/CMPSC190DE-DF, offered Winter and Spring terms). The course sequence culminates with a public showcase of student work.\nFor participating project advisors, the program offers opportunities to engage in mentorship, advance research agendas, and establish collaborative partnerships."
+    "text": "Note\n\n\n\nNote: The page is currently under construction as we implement updates for the upcoming 2025-2026 capstone class.\n\n\n\nApplications for the 2025-2026 capstone class are open until Friday, August 1st, 2025! Add codes will be distributed to admitted students on September 9th, 2025. Application form\nWelcome to the homepage for UC Santa Barbara’s data science capstone.\nThe capstone aims to provide students with hands-on research training and career development opportunities related to data science. It is equally suitable for students interested in entering the job market as it is for those considering graduate school – we partner with both industry and academic project advisors to offer research experiences spanning a breadth of application domains!\nFor participating students, the capstone is a year-long course sequence comprising two distinct portions: a preparatory course in data science topics and collaborative research skills (PSTAT197A/CMPSC190DD, offered Fall term) and two experiential learning courses in which students work in teams on interdisciplinary projects sponsored by an external partner and advised by a technical specialist (PSTAT197B-C/CMPSC190DE-DF, offered Winter and Spring terms). The course sequence culminates with a public showcase of student work.\nFor participating project advisors, the program offers opportunities to engage in mentorship, advance research agendas, and establish collaborative partnerships.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
     "title": "Data science capstone at UCSB",
     "section": "",
-    "text": "Applications for the 2025-2026 capstone class are open until Friday, August 1st, 2025! Add codes will be distributed to admitted students on September 9th, 2025. Application form"
+    "text": "Applications for the 2025-2026 capstone class are open until Friday, August 1st, 2025! Add codes will be distributed to admitted students on September 9th, 2025. Application form",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "info-for-sponsors.html",
@@ -334,7 +314,6 @@
     "section": "",
     "text": "We are considering projects for the 2025-2026 academic year on a rolling basis through November 1, 2025. The process for proposing a project is as follows:\nWe are happy to provide consultations at any point in this process. Please see the people page for current program contacts.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -345,7 +324,6 @@
     "section": "Why participate?",
     "text": "Why participate?\nData science capstone projects at UCSB are, above all, about creating educational and professional opportunities for students. We want to work with project mentors who share our commitment to student learning.\nParticipation can benefit mentors by providing pilot research or advancing existing projects, and can also provide opportunities to form new partnerships and collaborations and potentially recruit talent.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -356,7 +334,6 @@
     "section": "Tips for success",
     "text": "Tips for success\nWe have found that successful projects include students in making novel contributions to a broader research agenda based on concrete starting points. In other words, projects tend to be productive when there is a clear focus and purpose. In our view, mutually beneficial success is most likely when mentors:\n\nare invested in students’ intellectual and professional development;\nhave identified a well-defined data science problem of clear value to their agenda or organization;\ncan provide initial work (analysis, codes, relevant literature) and hands-on direction and training to students at the beginning of the project to facilitate a quick start.\n\nProjects tend to be less productive in the absence of very specific direction and engagement on the part of the mentor at the outset of the project – this often results in protracted exploratory analyses lacking focus. Typically, given the proper initial support, students are able to make ongoing progress with a fair degree of autonomy after a few weeks.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -367,7 +344,6 @@
     "section": "Timeline",
     "text": "Timeline\nProject work takes place in Winter and Spring quarters each year. As such, we follow this approximate timeline:\n\nJune – October: project recruitment for upcoming year\nOctober – November: development of project plans in collaboration with sponsors\nDecember: assignment of students and a faculty or graduate student advisor to the project\nJanuary: project work begins\nJune: project work concludes with poster showcase on UCSB’s campus\n\nThe general expectation is that datasets are in hand by the time project work begins. However, in some cases, projects may start with pilot data.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -378,7 +354,6 @@
     "section": "Logistics",
     "text": "Logistics\nProject mentors should be able to provide:\n\nproject objectives and datasets;\nat least one representative who is available to meet for one hour weekly or biweekly with the project team (virtual meetings are fine) during the working period (January – June);\n(non-academic advisors only:) a mandatory participation fee of $1,500 to support the project showcase, and prizes for best projects\n\nNote that it is possible for project mentors to participate entirely online, and mentors can choose to meet with students either on Zoom or equivalent, or in person.\nUCSB provides:\n\nconsultation on project plan development;\nat least one faculty or graduate student advisor to join project meetings and assist students in meeting project goals;\nstudent research team matched to the project based on interests and skills;\nmeeting space and research computing resources.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -389,7 +364,6 @@
     "section": "Disclosure agreements",
     "text": "Disclosure agreements\nMentors may wish to establish disclosure agreements covering the scope of project work. Typically such agreements pertain to data and information provided by the project mentor for educational purposes, and are entered into by the university with the support of capstone program staff. Any such agreements are binding on students and faculty as university representatives.\nIn the 2025-2026 academic year, we will be providing a standard nondisclosure agreement on request. We are happy to consider modifications to the standard agreement provided they are not overly restrictive – students will need to discuss their work with the class and prepare a public poster presentation in order to earn university credit. It should be noted that the university cannot enter into agreements pertaining to ownership of project deliverables – students retain rights to work that they produce for academic credit.",
     "crumbs": [
-      "Home",
       "Propose a project"
     ]
   },
@@ -400,7 +374,6 @@
     "section": "",
     "text": "Listed alphabetically by project sponsor.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -412,7 +385,6 @@
     "section": "Appfolio",
     "text": "Appfolio\nAI: teaching a machine to learn math\nStudent team: Priyanka Banerjee, Shaka Kanenobu, Vikram Pasupathy, and Ari Polakof\nAdvisors: Soeren Thust, Peng-Yuan Lai, Sikun Lin, and Ambuj Singh\nThis project aims to teach a machine to learn math. Students will attempt to train a robot to recognize important data contained within invoices and to perform the necessary calculations on those invoices. This task is important. Figuring out credits and debits is the bottleneck of the payment process. Learning the spatial relationship of data with an arithmetic relationship is a crucial piece of intelligence. With an all-in-one system, AppFolio would like to recover any financial snapshot of any customer in their history.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -424,7 +396,6 @@
     "section": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)",
     "text": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)\nLarval fish assemblage as an indicator to predict the fisheries catch\nStudent team: Leron Reznikov, Andie Rupprecht, Gavin Tieng, and Meng Vong\nAdvisors: Erin Satterthwaite, Julia Coates, Chau Tran, and Sang-Yun Oh\nCALCOFI studies the marine environment of coastal California and investigates the relationships between climate, fish population, and other human activities. This project seeks to establish whether any correlation can be drawn from two separate datasets, as well as possibly investigate any environmental factors that add variance to the relationship. The two data sets under investigation are:\n\nFish larvae catch data from CALCOFI cruises intended to measure populations of various species\nCommercial fish data from fisheries in California\n\nHow does fish catch change in relation to changing environmental conditions & larval community composition? Do we find that El Nino year conditions have lower recreational and/or commercial catch (lbs) or catch value ($)?\n\n\n\nFigure: California Yellowtail 2016-2019\n\n\nConsider this initial project visualization of Yellowtail larvae identified in 2016 (purple) compared to all locations Yellowtail were caught in the years 2017-2019 (yellow). The time lag was picked to give enough time for recruitment to happen, so the larvae identified in 2016 could possibly be the same fish caught in the later years. All the larvae and almost all of the catches occurred within the Southern California bight which might suggest some spatial relations.\nThe team will explore the data in more depth, also looking at other species and timeframes.\nClimate change and young fish: the relationship between pH and aspects of larval fish assemblage in the California current\nStudent team: Cristian Razo, Robin Hollingsworth, and Jay Patwardhan\nAdvisors: Erin Satterthwaite, Chau Tran, and Sang-Yun Oh\nThis project looks for correlations between the water characteristics of multiple coastal regions and the makeup of the marine life there, with hopes of providing insight to future observations on what the makeup of marine life should be. This can be vital to preserving the environment, helping endangered marine species, and ensuring the well health of our oceans in general as well.\n\n\n\n\n\n\nYoung fish\n\n\n\n\n\n\n\nFish larvae\n\n\n\n\n\nThe team has access to two large time-series datasets. The first is a large collection of water characteristics across many regions and depths of California’s coast from 2008-1015. The second is an even larger data set comprising the topology and makeup of many species of California marine life from 1904 to the present. Given the disparity in time-steps, the water characteristic data set requires backward forecasts that accurately predict water temperature and salinity.\nIn addition to correlations between the makeup of water and how these characteristics affect the current and future states of how marine life, the team is also exploring the various causal factors for water characteristics that vary from region to region, which in turn affects the makeup of marine life.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -436,7 +407,6 @@
     "section": "Carpe Data",
     "text": "Carpe Data\nMining criminal records based on HTML data\nStudent team: Andrew Nguyen, Samual Sheridan, Matthew Xu, and Jason Yu\nAdvisors: Crystal Zhang, Joshua Bang, and Mike Ludkovski\nThe goal of this project is to build an automated tool to predict whether a given personal record includes prior arrest information. There are two objectives. The first is to build a binary classifier to predict whether a webpage contains a criminal record or not. The second objective is to provide information about the arrest (e.g arrest date). The team aims to extract the date of the arrest and the arrest code.\nSome similar projects have already been put into production, with text mining algorithms generally supplemented with manual validation and checking to ensure data mining quality. Fairness and ethics become a point of concern. The team will need to discern whether any bias (e.g. inappropriate use of demographic information to predict criminal record) occurs.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -448,7 +418,6 @@
     "section": "Center for Science and Engineering Partnerships (CSEP)",
     "text": "Center for Science and Engineering Partnerships (CSEP)\nUCSB undergraduate alumni tracking\nStudent team: Andrea Anez, Karanveer Benipal, Manny Medrano, and Romtin Toranji\nAdvisors: Lubi Lenaburg, Joshua Bang, and Alex Franks\nThe CSEP Alumni Tracking Project tracks students graduating from 2000 - 2018 from the University of California, Santa Barbara. The overall goal of tracking students is to monitor opportunities UCSB provides and the impact on student outcomes.\nThe data comes from a mix of sources: online - LinkedIn, personal websites, and professional organizations - and UCSB’s own information about students. While not all of the data was accessed through an automated system, some of it required manual revisions to determine if a student’s data is updated. Inevitably, there will exist some type of error – whether it is a simple misspelling of a word, or perhaps a text string existing in an integer column.\nThis project provides a unique opportunity to explore data. Here are some possible avenues:\n\nOutcomes by Major\nRanking of Graduate Schools UCSB students attend\nJob Opportunities\nGeographical Distribution of Students\nFreshmen vs. Transfer Admit Outcomes\nGreek life vs Non-Greek life Students\nCareer outcomes for athletes\nFemale athletes in leadership roles\nStudents from low-income high schools\nDistribution by undergradute major\nCareer outcomes and future earnings",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -460,7 +429,6 @@
     "section": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)",
     "text": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)\nBees + flowers / GloBI interactions\nStudent team: Nick Bachelder, Angel Chen, Zoe Fang, Mitchell Rapaport, and Samantha Solomon\nAdvisors: Michelle Lee, Katja Seltmann, Joshua Bang, and Kate Kharitonova\nWe are experiencing a global loss of insects. Already, the loss of any one species can have dramatic cascading impacts on an ecosystem. With 35% of global crop production relying on plant-pollinators, the loss of multiple species of pollinators can have devastating effects on the world’s food production.\nThis project utilizes the vast Global Biotic Interactions (GloBI) dataset to explore biodiversity. In particular, the project looks at the Apidae family of insects (honey bees, bumble bees, carpenter bees, etc.) and the plants they pollinate. Team members will build a network to discern more information about the importance of bees in our global ecosystem.\n\n\n\n\nBachelder, N. R, Chen, A., Zoe, F., Rapaport, M. K, Bang, J., Solomon, S. J, et al. (2021). Leveraging Large Biological Interaction Data to Quantify Plant Specialization by Bees. Poster presented at Ecological Society of America Meeting. August, 2021. https://escholarship.org/uc/item/33b2t2bq",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -472,7 +440,6 @@
     "section": "Evidation Health",
     "text": "Evidation Health\nTracking activity patterns in those recently infected by COVID-19\nStudent team: Peter Bayerle, Matthew Coleman, Joanna Kim, and Karsyn Lee\nAdvisors: Eric Daza, Jiajing Zheng, and Alex Franks\nThe aim of this project is to discover methods of pre-symptomatic COVID-19 detection using data collected from wearables. Using a recent study, “Pre-symptomatic detection of COVID-19 from smartwatch data” (Mishra et al), as the baseline for research and the source of data for analysis, the Evidation team will use the described outlier detection algorithms to determine the likelihood of COVID-19 infection in an individual given their heart rate, step count, and sleep data.\nShort term goals for the project include:\n\nRecreating visualizations from Mishra et al\nResearching Mishra et al’s HROS metric and exploring alternative metrics\nUsing anomaly detection algorithms described in Mishra et al and perhaps tweaking and improving upon these established algorithms\n\nUltimately, the project is not only looking to replicate the Mishra et al study but also to improve upon it and try alternative methods (like changing time frames used in computing metrics, exploring different anomaly detection algorithms, etc.). A long term goal of this project is to explore regularized cross-validated linear mixed models and causal modeling and inference.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -484,7 +451,6 @@
     "section": "FLIR",
     "text": "FLIR\nHow pixel differences can affect sensors in self-driving cars\nStudent team: Sairisheek Muttukuru, Nicholas Nunes, Neil Sadhukhan, and Bill Zhang\nAdvisors: Louis Tremblay, Joshua Bang, and Sang-Yun Oh\nThe FLIR team is working on real time object detection models with a primary use for autonomous driving cars. Much of the current technology is centered around RGB cameras as seen in Figure 1.\n\n\n\nFigure 1: RGB Sensing\n\n\nWhile RGB sensing is a de facto standard in real time object detection models it is not without its weaknesses and must be used in conjunction with other sensing technology to provide reliably safe object detection for autonomous driving.\nFigure 2 depicts a scene behind the lens of an RGB sensor on the left and the object detection of a thermal sensor on the right. RGB sensing tends to fail at night due to the reduced color space, which poses a large risk for the safety of autonomous driving cars. FLIR as a company specializes in the design and production of thermal imaging cameras, components, and imaging sensors, and hopes to leverage that technology in the field of computer vision.\n\n\n\nFigure 2: comparison of RGB sensing (left) and thermal sensing (right) for identical night scenes.\n\n\nThis project is primarily concerned with analyzing the robustness of a thermal object detector for ADAS (Advanced Driver Assistance Systems) subject to the effect of added noise. Understanding the effect of noise is incredibly important to the field of computer vision. It has been observed that small amounts of noise can result in severe misclassifications. The team is also exploring adversarial attacks (adding inputs to a model to intentionally cause misclassifications) in an attempt to make the object detection models as robust as possible.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -496,7 +462,6 @@
     "section": "Invoca",
     "text": "Invoca\nSpeech and text analysis\nStudent team: Amy Cho, Anton de la Fuente, Sai Kathika, Austin Quinn, and Shuyun Tang\nAdvisors: Mike Lawrence, Sikun Lin, and Ambuj Singh\nThis project explores the development of applications for collecting and categorizing key elements in a conversation. One idea is to extend the designed application to a chatbot. To build their models, the team is using the open-source Google Taskmaster-1 dataset, which consists of 13,215 task-based dialogs created between a customer and an agent having a conversation recorded in text about one of the following six topics: ordering pizza, creating auto repair appointments, setting up ride service, ordering movie tickets, ordering coffee drinks, and making restaurant reservations.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -508,7 +473,6 @@
     "section": "National Center for Ecological Analysis and Synthesis (NCEAS)",
     "text": "National Center for Ecological Analysis and Synthesis (NCEAS)\nDeveloping a data set for each of the 28 sites of the Long Term Ecological Research (LTER) network\nStudent team: Sam Guo, Adhitya Logan, Lia Ran, Sophia Sternberg, and Karen Zhao\nAdvisors: Julien Brun, Allison Horst, Chau Tran, and Sang-Yun Oh\nDr. Julien Brun (NCEAS) and Dr. Allison Horst (UCSB Bren School) have been developing an R package to help teach data science. The main goal of this package is to offer a set of data sets to replace the usual datasets shipped with R (mtcars, iris, …) with something more exciting and geared towards Environmental Sciences. We aim at developing a data set for each of the 28 sites of the Long Term Ecological Research (LTER) Network. Students on this team will help Julien and Allison with their R package (and accompanying website).\nThe LTER network is an NSF-funded research program to observe long-term and large scale ecological effects at various sites across the United States. LTER datasets are archived in a centralized data repository managed by the Environmental Data Initiative (EDI).\nThis project is based on a previous project led by Allison on the Palmer Penguins data set.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -520,7 +484,6 @@
     "section": "Neuroscience Research Institute (NRI)",
     "text": "Neuroscience Research Institute (NRI)\nExploring and understanding a rare genetic mutation that causes early-onset Alzheimer’s\nStudent team: Helen Huang, Shivam Misra, Priya Padmanabhan, Pugal Surya, and Rey Yue\nAdvisors: Juliana Acosta Uribe, Ken Kosik, Joshua Bang, and Alex Franks\nHow has a present day population been shaped by the risk of Alzheimer’s disease? This population genetics project seeks to understand a rare, variant genetic mutation that causes early-onset Alzheimer’s disease.\nWith access to a data set made up of the full genome sequences from hundreds of individuals in Columbia, the capstone team’s first goal will be to trace how far back the mutation/mutations responsible for said disorder go. Identifying common ancestors and the timeframe when the first mutation occurred can provide key insights into whether or not the mutation was the result of potential selective advantage. Another goal of the project is to estimate the age of each variant of the disease.\nThis rewarding project introduces exciting biology concepts and terminology, as well as software and tools for analyzing genotype data.",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -532,7 +495,6 @@
     "section": "Sansum Diabetes Research Institute",
     "text": "Sansum Diabetes Research Institute\nMil familias data analysis and communication: impact of diabetes in the Latino community\n\n\nStudent team: Zoe Holzer, Lawrence Lin, Vanessa Salgado Zavaleta, Emily San Juan, and Jake Simon\nAdvisors: Namino Glantz, David Kerr, Jiajing Zheng, and Alex Franks\n\n\n\n\nAlmost 1 in 2 Latino adults are at risk of type 2 diabetes. Recent data from the CDC shows that diabetes rates are twice as high for Latinos of Mexican heritage compared with Whites.\nSDRI has been operating the Mil Familias project, which focuses on the impact of diabetes in the Latino community. The vision of the Mil Familias Program is to reduce dramatically the burden of diabetes, heart disease, and stroke among Latino families in the United States. Bilingual, specially trained community health workers who are knowledgeable about type 2 diabetes (Especialistas) have interacted with families to collect data, answer questions, and connect families to the appropriate resources. Every year for 10 years, more than 100 variables are measured for each family member using surveys, physical exams, lab tests, and wearable activity monitors. The information that families contribute are then placed in a database about Latino health, behavior, lifestyle, and environment. Based on the data, Mil Familias plans to intervene in the areas of education, prevention, technology, policy, treatment, and more.\nThis project asks, which factors out of biology, behavior, psychology, society/environment are causing the highest amount of disproportionate burden in the Latino/Latina community of type 2 diabetes in mild (&gt;7%) and severe (&gt;9%) cases respectively?",
     "crumbs": [
-      "Home",
       "Projects",
       "2020-2021 Projects"
     ]
@@ -544,7 +506,6 @@
     "section": "",
     "text": "Listed alphabetically by project sponsor.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -556,7 +517,6 @@
     "section": "Amgen",
     "text": "Amgen\nEvaluation of natural language processing algorithms used for knowledge graph generation\nStudent team: Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao\nAdvisors: Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev\nA Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.\n\n\n\nFigure: Left, example knowledge graph with three entity types and two relations. Right, summary of example relations for possible entity type pairs.\n\n\nThe process of updating and expanding a KG can be manual and laborious and require ongoing collaboration with subject matter experts. Natural language processing (NLP) and text-mining algorithms could streamline this process by automatically extracting essential information about objects, concepts, and their relations. Once deployed, these algorithms could populate nodes and edges of a KG in an automated fashion based on incoming data.\nTwo crucial processes in generating nodes and edges of the KG are Named Entity Recognition and Linking (NER/NEL) and Relation Extraction (RE). NER/NEL automatically analyzes free text to recognize character substrings that identify entities of interest, while RE identifies entity pairs with certain relations.\nAs NER/NEL and RE are necessary steps in generating nodes and edges of the KG, it is critically important that these algorithms accurately extract entities and their relations from free text. To quantify performance of NER/NEL and RE, benchmarking datasets are often used. The entity and relation labels in these datasets are either annotated manually by subject matter experts or algorithmically using semi-supervised and/or rule-based approaches.\nThe focus of this project lies in identifying open-source NER/NEL and RE algorithms that show the highest performance in recognizing such entities as “company”, “molecule”, “protein” and their relations. A critical aspect of the work will be in generating a benchmarking dataset using publicly available data.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -568,7 +528,6 @@
     "section": "Appfolio",
     "text": "Appfolio\nOutlier detection\nStudent team: Ruoxin Wang, Brian Che, Mira Patel, Justin Vo, Dingan Jiang\nProject advisors: Ari Polakof, Erika McPhillips\nAt Appfolio we have been solving multiple problems in the Property Management Accounting domain with Machine Learning technologies. Many customers do accounting with our AppFolio Property Management (APM) solution, which means that they need to input all their records (invoices, bills, checks, etc.) in Appfolio. If the customer has integrated their bank account with Plaid (third-party provider) in APM, we also have data coming directly from their bank transactions.\nCustomers have been telling us that they would appreciate it if they could detect anomalies in their records and transaction history. For example, they would like to know if the water bill is much more expensive than the previous months for one property, since that would likely indicate a problem. They would also appreciate knowing if there’s a bill that usually comes but it doesn’t. This is a general problem with applications in multiple areas inside our software, and so we would like to have a way of detecting anomalies automatically so that property managers don’t have to worry about every single detail for each property.\nFor this project, students will analyze outlier detection methods, performance evaluation metrics for empirical comparisons between methods, and assess the methods from an explainability perspective. Students will develop comprehensive method comparisons and integrate them in a dashboard to present them with the correct data visualization techniques.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -580,7 +539,6 @@
     "section": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)",
     "text": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)\nAn eDNA window into larval fish habitat, ecosystem structure, and function using CalCOFI data\nStudent team: Anya Macomber, Yuqing (Summer) Xia, Kassandra Trejo-Zamora\nProject advisors: Erin Satterthwaite, Trevor Ruiz\nMost marine fishes and invertebrates produce high abundances of tiny larvae that, depending on the species, reside in the open ocean for weeks to months. Mortality is incredibly high (often upwards of 99%) for most fishes during the larval stage but because larvae are so abundant small changes in rates of survival result in orders of magnitude difference in survival to adult stages (i.e., recruitment). For this reason, elucidating the actual mechanisms in the ocean that affect larval survival is an integral component of fisheries management. Yet, despite over a century of recruitment research, accurately estimating these parameters has been difficult and predicting conditions that facilitate larval survival and drive recruitment remains the fundamental challenge in fisheries science and management.\nCalCOFI data include physical, environmental, and biological measurements collected from water samples and tows from ship cruises conducted quarterly since ~1950. Measurements are: (i) georeferenced – taken at recorded spatial coordinates; (ii) longitudinal – taken repeatedly over time; (iii) profiled – recorded across depth in the water column; and (iv) multivariate. The complexity of the datasets due to these attributes presents both promise for discovery and challenges for data analysis and display.\nThis project will aim to ascertain predictive relationships between environmental and biological systems. Focus on the relationship between environmental DNA and fish larvae is anticipated, but students will have some latitude to shape the direction of their work and may utilize secondary datasets as appropriate to the overall project aim. The primary objectives for this project will be: (i) developing interactive data displays effective for exploratory analysis and communication; and (ii) applying statistical methodology for prediction of variables of interest. Students will work primarily in R with version control.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -592,7 +550,6 @@
     "section": "Carpe Data",
     "text": "Carpe Data\nBusiness characteristics classification models\n\n\nStudent team: Noa Rapoport, Haoming Deng, Lex Navarra, Dan Le, Yutong Wang\nProject advisors: Andy Chen, Amy Huynh, Joshua Bang\n\n\n\n\nA business owner usually needs to buy insurance to protect their business against property loss and general liability. And insurance carriers would adjust the premium based on how much risk a business has. Risk can refer to the likelihood of a loss, and the severity of a potential loss.\nInsurance carriers are particularly interested in detecting businesses in “risky” industries or detecting risks in businesses. We have defined three risk groups of interest, “explosive”, “entertainment”, and “traffic”. If a business has one or more characteristics in the table attached in the appendix, it is categorized in related risk groups.\nCarpe Data is hoping to improve its current flagging methodology for businesses with risky behavior through the creation of a machine learning model that will categorize businesses into risk groups (defined below). The model will utilize different business information such as its name, industries, and social media data points (i.e. textual reviews, images, etc.) to help label businesses that fall into the “Entertainment” or “Traffic” risk groups. Note that these groups are NOT mutually exclusive and businesses may overlap with each other.\nFor this project, students will apply new NLP techniques and ML methods to label businesses according to risk groups. Students will validate their approach using manually labeled data and compare their approach with Carpe Data’s current classification method.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -604,7 +561,6 @@
     "section": "Caves Visual Ecology Lab",
     "text": "Caves Visual Ecology Lab\nMeasuring visual acuity in bees from high-resolution images\nStudent team: Eitan Rashkovan, Allen Wang, Kaylin Roberts, Evan Ji\nProject advisors: Eleanor Caves, Todd Oakley, Gia Anh, Trevor Ruiz\nVisual acuity, the ability to perceive detail, is ecologically important, as it dictates what aspects of a visual scene an animal can resolve. Humans have some of the highest acuity in the animal kingdom, so we live in a perceptual world that is rich in spatial detail. Acuity, however, is highly variable, varying by at least four orders of magnitude across animals, meaning that the majority of animals cannot resolve as much spatial detail as we do. Despite acuity’s ecological importance, however, we know little about why this variation exists, and one unanswered question in most animal groups is whether there aspects of a species’ ecology that correlate with variation in acuity. This project will leverage high resolution photographs taken by the NSF-funded Big Bee Project (http://big-bee.net) to estimate acuity bees. Bees are an excellent group in which to examine variation in acuity, because they exhibit a wide range of lifestyles and ecologies. To measure acuity from a photograph, we must measure two parameters: the diameter of the hexagonal facets (ommatidia) that comprise the bee’s compound eye, and the eye’s radius of curvature.\nFor this project, students will begin with a set of images from approximately 50 species of bees. For each species, several photographs are available that view the bee from different angles. Students will use this dataset to develop algorithms for estimating the diameter of ommatidia and radius of curvature from a photograph. Students will use estimates to calculate acuity. If time permits, the project will explore potential correlates of acuity among aspects of bee ecology, for example nocturnality/diurnality, living socially or solitarily, and sex differentiation.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -616,7 +572,6 @@
     "section": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)",
     "text": "Cheadle Center for Biodiversity and Ecological Restoration (CCBER)\nConstructing three-dimensional bee models from high-resolution images\n\n\nStudent team: Daniel Badilla, Allester Ramayrat, Sofia Spasibenko, William Long\nProject advisors: Katja Seltmann and Joshua Bang\n\n\n\n\nWhile bees are critical to sustaining a large proportion of global food production, as well as pollinating both wild and cultivated plants, they are decreasing in both numbers and diversity. Our understanding of the factors driving these declines is limited, partly because we need more data on the behavioral and anatomical traits that may make bees vulnerable or resilient to human-induced environmental changes, such as habitat loss and climate change.\nAs part of the Big-Bee project (http://big-bee.net), we are creating 2D & 3D high-resolution images of bees to study anatomical variation. Creating 3D images of bees is challenging because they are small, hairy objects. Several technologies for creating these models (e.g., Agisoft Metashape, meshroom, Neural Radiance Fields) are available. Still, it has yet to be known which performs the best or if adjusting specific model parameters will improve performance. Students will begin by learning the basics of 3D modeling using existing images in Agisoft Metashape before using their acquired knowledge to create bee measurements and improve future models.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -628,7 +583,6 @@
     "section": "Climate Hazards Center (CHC)",
     "text": "Climate Hazards Center (CHC)\nIdentifying the drivers of food insecurity in the developing world\nStudent team: Giselle Ramirez, Thomas Shi, Alex Lim, Ryan Quon, Disha Hauzaree\nProject advisors: Greg Husak, Shrad Shukla, Enbo Zhou\nThroughout much of the developing world, human livelihoods are dependent on the success of rainfed agriculture and pastoral biomass for food. In these regions, precipitation (PPT), or rainfall, is a critical indicator of vegetative health and success, and so a number of methods have been developed for expressing the quantity and quality of rainfall. In addition to the amount of PPT coming into the system, there has also been increasing attention on the atmospheric demand for water. One way of capturing this is the use of potential evapotranspiration (PET), which combines temperature, humidity, solar radiation, and wind speed to estimate the amount of water which would be soaked up by the atmosphere over a given surface. Many indicators have sought to combine these factors in a meaningful way to identify deficits in available water for vegetation, and anticipate food shortages in the developing world.\nHowever, PPT and PET are inversely related. The factors associated with rainfall (cloud cover, high humidity, latent cooling) also lead to low PET. This capstone project seeks to explore the relationship between PPT and PET in space and time. Where these factors are tightly coupled, drought events would be accompanied by increased PET, and lead to larger water deficits than might be indicated by precipitation alone. Where the relationship is less coupled, there may be independent factors driving the PET, and we will seek to understand the drivers of that independent component.\nThis project will work with quasi-global grids of PPT and PET from the last 40 years to explore these relationships, potentially identify drivers of both PPT and the independent component of PET, and maybe even explore developing statistical forecasts of these factors based on sea surface temperatures.\n\n\n\nEvaluating and validating stations and satellite based daily precipitation dataset\nStudent team: Lily Li, Changhee Yoon, Hannah Li, Russell Liu, Fei Du\nProject advisors: Shrad Shukla, Greg Husak, Enbo Zhou\nDaily precipitation is critical for monitoring climate hazards such as floods and droughts, and for running hydrologic and crop water balance models that provide estimates of available water to better manage and utilize water resources. The Climate Hazards Center (CHC) is a global leader in generating precipitation dataset based on satellites and on ground stations. The dataset is called CHIRPS, which stands for Climate Hazards Center InfraRed Precipitation with Stations (CHIRPS) and is a gridded dataset that covers the entire globe, at a spatial resolution of 5km X 5km. CHIRPS version 2.0 has been widely used globally, for monitoring climate hazards and for understanding long-term changes in precipitation.\nCHC currently is in the process of developing the latest version of this dataset which is CHIRPS 3.0. The goal of this project is to evaluate the daily precipitation values from this dataset. The evaluation process will involve downloading and processing several independent precipitation datasets that come from diverse sources, to compare them with CHIRPS 3.0, and advanced statistical methods to quantify the performance of the daily CHIRPS 3.0 dataset relative to other datasets. The results of this analysis will be documented and submitted for a peer-reviewed publication.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -640,7 +594,6 @@
     "section": "Patrick Green",
     "text": "Patrick Green\nHow do mantis shrimp fight in a community of competitors?\nStudent team: Luke Fields, Brian Fan, Ashley Son, Tianhong Liu\nProject advisors: Patrick Green, Adam Waterbury, Trevor Ruiz\nWhat are the strategies that animals use when competing over essential resources like mates, food, or shelter? Decades of animal behavior research into this question has identified several tactics animals may use. However, most studies do not realistically replicate the problem competing animals face in nature. For example, most experimental studies stage contests between two individuals over one resource; in reality, animals likely interact with a population of multiple competitors, all fighting over multiple resources. Understanding how animals fight in these more naturalistic scenarios will help us discover the strategies animals use in natural systems, while reaffirming or contesting the conclusions of previous work.\nThis study intends to track how a population of individuals compete over multiple resources by studying contests in mantis shrimp, crustaceans that use spring-powered strikes during fights over access to protective burrows. Specifically, we will set up “mesocosms”, large areas holding multiple, individually-marked mantis shrimp and multiple burrows. By tracking each individual over weeks to months, we can see who fights with whom, what their contests are like (e.g., how aggressive), and who ends up holding which resource(s).\nThe primary objectives of this project will be to build methods to track uniquely-marked individuals from video recordings, and to identify timestamps in videos when two individuals come into contact (perhaps leading to a fight). Finally, an additional goal of this project will be to gather movement and residence data from each individual—identifying how much individuals move through their environment and which resource(s) they ultimately hold. The methods from this project will form the basis for a long-term project that modifies this approach for multiple experiments in the future.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -652,7 +605,6 @@
     "section": "Inogen",
     "text": "Inogen\nOptical character recognition and text extraction techniques for portable oxygen concentrator prescription forms\nStudent team: Ankur Malik and Kabir Snell\nProject Advisors: Trevor Ruiz, Paula Sarmiento, Norbert Leinfellner\nInogen is a medical technology enterprise that specializes in the research, development, manufacture, and marketing of portable oxygen concentrators for patients diagnosed with chronic respiratory illnesses. These devices offer a lightweight and practical alternative to conventional oxygen therapy, enabling patients to lead a more active and self-sufficient lifestyle.\nInogen maintains an extensive collection of concentrator patient prescription forms, but these are stored as a large collection of individual documents. The content of these forms is not collated in an easy-to-access database supporting queries or comprehensive analyses of patient data. However, this would produce gains in efficiency and potentially produce to data-driven insights that lead to improvements in patient care.\nOur team is collaborating with faculty and students from Purdue University and The Data Mine to digitize Inogen’s comprehensive patient database of medical forms. We are utilizing two distinct implementations of Optical Character Recognition (OCR) tools – a commercial software tool and custom scripting in Tesseract, an open-source Python package that utilizes Google’s OCR system. Independently of text extraction, additional data manipulation is necessary to render text content in analysis-ready form. Our primary objective for this project is to automate the extraction of key patient information from prescription forms and render this data in analysis-ready form. We are using mock patient forms to develop an automated pipeline and aim to provide Inogen with an approach and/or program that can be implemented at scale with real patient records.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -664,7 +616,6 @@
     "section": "Evidation Health",
     "text": "Evidation Health\nImpact of case definition on early detection systems for COVID-19\nStudent team: Shannon Rumsey, Edward Ho, Nealson Setiawan, Jen Park, Chunting Zheng\nProject advisors: Arinbjörn Kolbeinsson, Eric Daza, Megan Elcheikhali\n\nDetecting infectious diseases, such as COVID-19, early can accelerate case isolation and break chains of infection. We can train a model to do this but there is no clear definition of when a case starts, meaning the ground-truth labels (used for training and evaluation) are often inconsistent between studies. A hypothesis is that case definition, i.e., the time-point at which an individual changes labels from healthy to infected, has a significant effect on systems designed to identify individuals.\nThis project will use home testing kit study data to analyse and compare the effect of changing the case definition on detection through existing models (or new models, depending on project progress) and consider whether the evaluation metrics reflect real-world impact. If progress allows, the project will seek to find the optimal case-onset point (or some function of accuracy vs early detection) for an early-detection system.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -676,7 +627,6 @@
     "section": "MOVE Lab",
     "text": "MOVE Lab\nDetecting changes in human mobility and movement patterns associated with wildfires in California\nStudent team: Ellie Burrell, Justing Liu, Lyndsey Umstead, Piero Trujillo\nProject advisors: Somayeh Dodge, Evgeny Noi, Laura Baracaldo, Enbo Zhou\nThe goal of this project is to use movement as a marker to study behavioral responses of people to environmental changes, in particular during natural disasters. As a case study, this project utilizes large and multi-sourced mobility data sets to investigate changes in movement patterns in associations with wildfire events in California. First, the goal is to investigate available data sets and their suitability for representing movement patterns in wildfire-impacted areas. Second, the project focuses on applying machine learning techniques to identify and trace changes in mobility time series and to associate them to the timelines of different wildfire events between 2019-2022 (before, during, and after the fire) compared with a baseline (e.g. a year without wildfire). The outcomes of this project will inform simulation models to assess and estimate wildfire risk on movement flows in Californian communities.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -688,7 +638,6 @@
     "section": "Peak Performance Project (P3)",
     "text": "Peak Performance Project (P3)\nUnderstanding links between biomechanical data and on-court NBA production\nStudent team: Bernie Graves, Raymond Lee, Aria Kajeh, Jai Uparkar\nProject advisors: Eric Leidersdorf, Alex Franks, Erika McPhillips, Yan Lashchev\nOver the past decade, resources poured into analytics efforts and performance staff in the NBA (comprising sport scientists, strength coaches, physical therapists, dietitians, athletic trainers, and physicians) have consistently grown. However, despite continued investment in both of these practices, the understanding of relationships between human performance data and on-court productivity has not yielded the expected return. As a field, our understanding of the physical traits that comprise a competent NBA athlete is limited by a lack of consistent data collection processes, team staff churn, the inherent complexity of studying the human body, and the diversity of player roles in basketball.\nBeginning in 2013, P3 (Peak Performance Project) began collecting biomechanical data on professional and collegiate basketball players performing ballistic movements in their laboratories. As it currently stands, P3 owns the largest biomechanics database on NBA athletes in the world. This dataset comprises 3D Motion Capture and Force Plate data – allowing P3 to create skeletal models of their athletes for in-depth movement analysis. While many of P3’s efforts to date have involved studying injury-risk and training adaptations within this cohort, the extent to which this data can help inform which physical tools are important in today’s NBA landscape remains largely unknown.\nP3’s in-house dataset consists of 3D Motion Capture and Force Plate data conducted on professional and collegiate basketball players – approximately 1300 assessments in total. This data has been collected on a series of vertical plane (jumps) and lateral plane (lateral acceleration drills) actions in P3 labs in Atlanta, GA and Santa Barbara, CA. In addition to P3’s in-house data, scraping publicly available basketball data web will be integral to project success.\n\nFor this project, students will build a web-scraping tool for the purposes of comparing P3’s in-house data with on-court production at the professional and collegiate levels, build ML models to understand links between biomechanics data and on-court production, and develop an R Shiny application to visualize relationships between P3 data and on-court performance.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]
@@ -700,7 +649,6 @@
     "section": "Stanford National Accelerator Lab",
     "text": "Stanford National Accelerator Lab\nDiffraction image selector\nStudent team: Aleksander Cichosz, Ryan Stofer, Vardan Martirosyan, Teo Zeng\nProject advisors: Derek Mendez and Robin Liu\nThe quality of images used during serial crystallography data processing often weighs heavily on the accuracy of results. It is routine for experimenters to visually inspect and tune parameters to select the best images to process. By using state-of-the-art machine learning technologies, coupled with realistic forward modeling of crystallographic data, one can build a regression model which accepts images as inputs, and outputs experimentally interesting properties. This paves the way towards a machine intelligence capable of auto-selecting the highest quality images during diffraction collection.\nFor this project, students will use resmos2 data comprising about 10000 simulated diffraction images with corresponding labels, as well as additional simulated datasets, to build a regression model that will work in real-time to label images during data collection at SSRL beamlines. This will greatly enhance the user experience at the SSRL/SMB beamlines.",
     "crumbs": [
-      "Home",
       "Projects",
       "2022-2023 Projects"
     ]

@@ -66,6 +66,10 @@ This project proposes using generative AI to automate the collection and verific
 
 Students will design a system that uses LLMs or other generative models to scrape, process, and validate candidacy data for local elections. The goal is to empower more citizens to discover leadership opportunities in their communities.
 
+::: column-screen
+![](posters-24-25/Team_NationBuilder.png)
+:::
+
 ---
 
 ## SLAC National Accelerator Laboratory
@@ -78,6 +82,10 @@ Students will design a system that uses LLMs or other generative models to scrap
 Protein crystal quality determines whether their atomic structure can be resolved via X-ray diffraction. This project aims to train an AI model to classify images of crystallization samples using a labeled dataset (e.g., MARCO) and then improve it with fine-grained classes (e.g., “crystal rods”).
 
 Students will work in a Unix environment, write Python and PyTorch code, and collaborate via GitHub. If time allows, they may explore using generative AI to expand their labeled training set. The resulting model will support structural biology and drug development efforts.
+
+::: column-screen
+![](posters-24-25/Team_SLAC.png)
+:::
 
 ---
 
@@ -92,6 +100,10 @@ San Luis Obispo County Probation uses the Youth Level of Service/Case Management
 
 Students will compare numeric risk scores and risk categories (low, medium, high) to actual reoffending outcomes, analyze demographic disparities in predictive power, and recommend cut-point revisions if appropriate. This project offers applied experience in criminal justice, risk modeling, and fairness assessment.
 
+::: column-screen
+![](posters-24-25/Team_SLO Probation.png)
+:::
+
 ---
 
 ## SoundEthics
@@ -104,6 +116,10 @@ Students will compare numeric risk scores and risk categories (low, medium, high
 As AI-generated voices become more realistic, detecting deepfakes is critical for protecting musicians and voice artists. This project offers students the opportunity to build detectors for AI-generated singing, speech, or generative music.
 
 Students will curate datasets, extract features, clean data, and train models capable of distinguishing AI from human audio. The work directly supports SoundEthics’ mission to ensure ethical and transparent use of AI in the creative arts.
+
+::: column-screen
+![](posters-24-25/Team_Sound Ethics.png)
+:::
 
 ---
 
@@ -118,6 +134,10 @@ Using long-term CalCOFI data, this project will build an integrated species dist
 
 The final model will incorporate acoustic, visual, and eDNA detections and be visualized in an RShiny app. This hands-on project blends ecology, oceanography, and spatial modeling.
 
+::: column-screen
+![](posters-24-25/Team_Scripps.png)
+:::
+
 ---
 
 ## UCSB Climate Hazards Center
@@ -131,6 +151,10 @@ This project will evaluate the accuracy (skill) of global precipitation and temp
 
 The work contributes to improving early warning systems for climate-driven hazards and supports the global mission of the Climate Hazards Center.
 
+::: column-screen
+![](posters-24-25/Team_CHC.png)
+:::
+
 ---
 
 ## UCSB Political Science / 2035 Initiative
@@ -143,3 +167,7 @@ The work contributes to improving early warning systems for climate-driven hazar
 This project will model demographic and employment trends for energy-sector workers in the SLO–SB–Ventura region. Students will work with American Community Survey (ACS) and BLS/O*NET datasets to generate zip-code-level profiles of energy jobs and labor skills over time.
 
 The output will be a spatially rich report showing how workforce patterns intersect with the renewable energy transition—supporting the 2035 Initiative's efforts to build equitable, region-specific climate policy.
+
+::: column-screen
+![](posters-24-25/Team_2035 Initiative.png)
+:::

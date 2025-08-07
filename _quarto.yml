@@ -32,6 +32,7 @@ website:
       - people.qmd
       - section: "Projects"
         contents:
+          - projects/projects-24-25.qmd
           - projects/projects-22-23.qmd
           - projects/projects-21-22.qmd
           - projects/projects-20-21.qmd

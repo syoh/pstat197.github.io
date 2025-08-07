@@ -47,10 +47,6 @@ Students will explore how to answer questions like “Which bees are colored gre
 
 This project will investigate climatic and socioeconomic factors influencing crop yields in sub-Saharan Africa, with the goal of improving predictive models that support early warnings for food insecurity. Students will work with remote sensing data, socioeconomic indicators, and statistical or machine learning models to identify key yield determinants and help build tools that anticipate regional food crises.
 
-::: column-screen
-![](posters-24-25/Team_Geography.pdf)
-:::
-
 ---
 
 ## NationBuilder

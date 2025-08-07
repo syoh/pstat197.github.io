@@ -132,19 +132,19 @@
     ]
   },
   {
-    "objectID": "projects/projects-22-23.html#amgen",
-    "href": "projects/projects-22-23.html#amgen",
+    "objectID": "projects/projects-22-23.html#appfolio",
+    "href": "projects/projects-22-23.html#appfolio",
     "title": "2022-2023 Projects",
-    "section": "Amgen",
-    "text": "Amgen\nEvaluation of natural language processing algorithms used for knowledge graph generation\nStudent team: Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao\nAdvisors: Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev\nA Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.\n\n\n\nFigure: Left, example knowledge graph with three entity types and two relations. Right, summary of example relations for possible entity type pairs.\n\n\nThe process of updating and expanding a KG can be manual and laborious and require ongoing collaboration with subject matter experts. Natural language processing (NLP) and text-mining algorithms could streamline this process by automatically extracting essential information about objects, concepts, and their relations. Once deployed, these algorithms could populate nodes and edges of a KG in an automated fashion based on incoming data.\nTwo crucial processes in generating nodes and edges of the KG are Named Entity Recognition and Linking (NER/NEL) and Relation Extraction (RE). NER/NEL automatically analyzes free text to recognize character substrings that identify entities of interest, while RE identifies entity pairs with certain relations.\nAs NER/NEL and RE are necessary steps in generating nodes and edges of the KG, it is critically important that these algorithms accurately extract entities and their relations from free text. To quantify performance of NER/NEL and RE, benchmarking datasets are often used. The entity and relation labels in these datasets are either annotated manually by subject matter experts or algorithmically using semi-supervised and/or rule-based approaches.\nThe focus of this project lies in identifying open-source NER/NEL and RE algorithms that show the highest performance in recognizing such entities as “company”, “molecule”, “protein” and their relations. A critical aspect of the work will be in generating a benchmarking dataset using publicly available data.",
+    "section": "Appfolio",
+    "text": "Appfolio\nEvaluation of natural language processing algorithms used for knowledge graph generation\nStudent team: Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao\nAdvisors: Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev\nA Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.\n\n\n\nFigure: Left, example knowledge graph with three entity types and two relations. Right, summary of example relations for possible entity type pairs.\n\n\nThe process of updating and expanding a KG can be manual and laborious and require ongoing collaboration with subject matter experts. Natural language processing (NLP) and text-mining algorithms could streamline this process by automatically extracting essential information about objects, concepts, and their relations. Once deployed, these algorithms could populate nodes and edges of a KG in an automated fashion based on incoming data.\nTwo crucial processes in generating nodes and edges of the KG are Named Entity Recognition and Linking (NER/NEL) and Relation Extraction (RE). NER/NEL automatically analyzes free text to recognize character substrings that identify entities of interest, while RE identifies entity pairs with certain relations.\nAs NER/NEL and RE are necessary steps in generating nodes and edges of the KG, it is critically important that these algorithms accurately extract entities and their relations from free text. To quantify performance of NER/NEL and RE, benchmarking datasets are often used. The entity and relation labels in these datasets are either annotated manually by subject matter experts or algorithmically using semi-supervised and/or rule-based approaches.\nThe focus of this project lies in identifying open-source NER/NEL and RE algorithms that show the highest performance in recognizing such entities as “company”, “molecule”, “protein” and their relations. A critical aspect of the work will be in generating a benchmarking dataset using publicly available data.",
     "crumbs": [
       "Projects",
       "2022-2023 Projects"
     ]
   },
   {
-    "objectID": "projects/projects-22-23.html#appfolio",
-    "href": "projects/projects-22-23.html#appfolio",
+    "objectID": "projects/projects-22-23.html#appfolio-1",
+    "href": "projects/projects-22-23.html#appfolio-1",
     "title": "2022-2023 Projects",
     "section": "Appfolio",
     "text": "Appfolio\nOutlier detection\nStudent team: Ruoxin Wang, Brian Che, Mira Patel, Justin Vo, Dingan Jiang\nProject advisors: Ari Polakof, Erika McPhillips\nAt Appfolio we have been solving multiple problems in the Property Management Accounting domain with Machine Learning technologies. Many customers do accounting with our AppFolio Property Management (APM) solution, which means that they need to input all their records (invoices, bills, checks, etc.) in Appfolio. If the customer has integrated their bank account with Plaid (third-party provider) in APM, we also have data coming directly from their bank transactions.\nCustomers have been telling us that they would appreciate it if they could detect anomalies in their records and transaction history. For example, they would like to know if the water bill is much more expensive than the previous months for one property, since that would likely indicate a problem. They would also appreciate knowing if there’s a bill that usually comes but it doesn’t. This is a general problem with applications in multiple areas inside our software, and so we would like to have a way of detecting anomalies automatically so that property managers don’t have to worry about every single detail for each property.\nFor this project, students will analyze outlier detection methods, performance evaluation metrics for empirical comparisons between methods, and assess the methods from an explainability perspective. Students will develop comprehensive method comparisons and integrate them in a dashboard to present them with the correct data visualization techniques.",
@@ -571,7 +571,7 @@
     "href": "people.html#section-2",
     "title": "People",
     "section": "2023-2024",
-    "text": "2023-2024\n\nInstructor\nDr. Laura Baracaldo, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject mentors\n\nJordan Tran, Appfolio\nNate Emery, CITRAL\nMichaela Alksne, Scripps Institution of Oceanography\nKatja Seltmann, CCBER\nShraddhanand Shukla, Climate Hazards Center, Geography Department\nMichael Schmidt, Nation Builder\nMatto Mildenberger, Political Science Department\nEric Leidersdorf, P3\nDerek Mendez, SLAC National Accelerator Laboratory\n\n\n\nProject advisors\n\nDr. Laura Baracaldo, Visiting Assistant Professor, Statistics\nDr. Alex Franks, Assistant Professor, Statistics\nYan Lashchev, Undergraduate Program Advisor, Statistics\nJose Nino, Data Science Student Advisor, Computer Science\nErika McPhillips, PhD Student, Statistics\nDr. Avani Tanna, Lecturer, Computer Science",
+    "text": "2023-2024\n\nInstructor\nDr. Laura Baracaldo, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject mentors\n\nJordan Tran, Appfolio\nNate Emery, CITRAL\nMichaela Alksne, Scripps Institution of Oceanography\nKatja Seltmann, CCBER\nShraddhanand Shukla, Climate Hazards Center, Geography Department\nMichael Schmidt, Nation Builder\nMatto Mildenberger, Political Science Department\nEric Leidersdorf, P3\nDerek Mendez, SLAC National Accelerator Laboratory\n\n\n\nProject advisors\n\nDr. Laura Baracaldo, Visiting Assistant Professor, Statistics\nDr. Alex Franks, Assistant Professor, Statistics\nYan Lashchev, Undergraduate Program Advisor, Statistics\nJose Nino, Data Science Student Advisor, Computer Science\nErika McPhillips, PhD Student, Statistics\nDr. Avani Tanna, Lecturer, Computer Science\n\n\n\nStudents\n\nAaron Lee\nAarya Kulkarni\nAmber Wang\nAmy Lyu\nAshwath Ekambaram\nAyushmaan Gandhi\nChris Zhao\nChristopher Straw\nClaire Lee\nDannah Golich\nDavid Lin\nDylan Fu\nErica Chen\nGriffin Sheppard\nHaoran Yan\nIrena Wong\nJackie Chen\nJade Thai\nJennifer Rink\nJiashu Huang\nJinran Jin\nJimmy Dysart\nKayla Katakis\nKyle Wu\nManuri Alwis\nMario Tapia-Pacheco\nMatthew Lee\nMindy Xu\nMolata Fu\nMu Niu\nNavneet Rajagopal\nPippa Lin\nPatrick Moon\nPeng Zhao\nRohit Kavuluru\nRohan Anand\nRyan Sevilla\nSanaz Ebrahimi\nSarah Liang\nSharanya Sharma\nSharon Lee\nShuai Yuan\nSichen Zhong\nYibo Liang\nYijiao Wang\nZoe Zhou",
     "crumbs": [
       "People"
     ]
@@ -776,7 +776,84 @@
     "href": "projects/projects-23-24.html#appfolio",
     "title": "2023-2024 Projects",
     "section": "Appfolio",
-    "text": "Appfolio\nLarge language model integrated chatbot\nStudent team: Dylan Fu, Amber Wang, Christopher Straw, Griffin Sheppard, Sharanya Sharma, Yibo Liang\nMentors: Jordan Tran, Ari Polakof\nAdvisors: Jose Niño, Laura Baracaldo\nAppfolio’s real estate management software enables its clients to capture real-time data about their properties. However, this data can be hard to interpret for clients without data analytics skills. LLMs can be used to bridge that gap, converting clients’ natural language questions first into executable code and then into natural language answers. This project aims to: Integrate large language models (LLMs) with Appfolio’s property management data and create user-friendly UI for answering questions. Develop an evaluation pipeline to assess LLM accuracy and enable iterative improvements to the LLM system.",
+    "text": "Appfolio\nLarge language model integrated chatbot\nStudent team: Dylan Fu, Amber Wang, Christopher Straw, Griffin Sheppard, Sharanya Sharma, Yibo Liang Mentors: Jordan Tran, Ari Polakof Advisors: Jose Niño, Laura Baracaldo\nAppfolio’s real estate management software enables its clients to capture real-time data about their properties. However, this data can be hard to interpret for clients without data analytics skills. LLMs can be used to bridge that gap, converting clients’ natural language questions first into executable code and then into natural language answers. This project aims to: Integrate large language models (LLMs) with Appfolio’s property management data and create user-friendly UI for answering questions. Develop an evaluation pipeline to assess LLM accuracy and enable iterative improvements to the LLM system.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#ucsb-cheadle-center",
+    "href": "projects/projects-23-24.html#ucsb-cheadle-center",
+    "title": "2023-2024 Projects",
+    "section": "UCSB Cheadle Center",
+    "text": "UCSB Cheadle Center\nBee Species Identification: Improving Population Monitoring Techniques\nStudent team: Rohit Kavuluru, Dannah Golich, Jennifer Rink, Patrick Moon, Navneet Rajagopal, Jiashu Huang Mentor: Dr. Madeleine Ostwald Advisors: Dr. Katja Seltmann, Dr. Laura Baracaldo Lancheros\nWith a shortage of taxonomic specialists to identify the vast array of bee species, this project aims to enhance the monitoring of population changes through an automated classification system, in order to mitigate the critical decline in bee populations which are essential for crop pollination and food security. A thorough investigation of methods for species classification and the quantification of diﬀerences in wing morphology was completed, and includes a convolutional neural network that classifies species with high accuracy, a wing measurement script, explorations of Linear Discriminant Analysis and Spectral Embedding, and a landmark model that identifies geometric diﬀerences between species. In order to aid local eﬀorts, a standardization pipeline for field images was also developed that includes perspective correction and cropping.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#ucsb-center-for-innovative-teaching-research-and-learning-citral",
+    "href": "projects/projects-23-24.html#ucsb-center-for-innovative-teaching-research-and-learning-citral",
+    "title": "2023-2024 Projects",
+    "section": "UCSB Center for Innovative Teaching, Research, and Learning (CITRAL)",
+    "text": "UCSB Center for Innovative Teaching, Research, and Learning (CITRAL)\nDid I Get the Job? Analysis of Longitudinal Hiring Trends in University of California Biology Departments\nStudent team: Ayushmaan Gandhi, Claire Lee, Mindy Xu, Ryan Sevilla, Yijiao Wang, Zoe Zhou Mentor: UCSB CITRAL Advisors: Nate Emory, Yan Lashchev\nUnlocking the secrets of faculty hiring within the university system takes us on a journey through the heart of academic evolution. This project explores the hiring shresholds, starting with a collection and analysis of curricula vitae (CVs) from the University of California (UC) faculty to uncover hidden patterns in hiring networks and publication trends. We achieved our goal by developing a web scraper to establish likely pronouns for professors, investigating hiring timelines for PhD graduates, and mapping hiring networks from PhD institutions to UC campuses. The primary goal of our project is to understand past and present hiring trends to improve future recruitment.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#ucsb-geography-and-climate-hazards-center",
+    "href": "projects/projects-23-24.html#ucsb-geography-and-climate-hazards-center",
+    "title": "2023-2024 Projects",
+    "section": "UCSB Geography and Climate Hazards Center",
+    "text": "UCSB Geography and Climate Hazards Center\nEvaluation of Climate Hazards Center InfraRed Precipitation with Stations Data\nStudent team: Jackie Chen, Mario Tapia-Pacheco, Peng Zhao, Sarah Liang, Shuai Yuan Mentors: Shrad Shukla Advisors: Erika McPhillips\nDaily precipitation (PPT) information is crucial for monitoring climate extremes. Four versions of daily CHIRPS 3.0 were developed using diﬀerent supporting data from NOAA, NASA, CCCS, and the CHRS. This project studies the behaviors of these daily CHIRPS 3.0 versions and aims to validate their PPT values. The project included the following: Creating diﬀerence maps for initial pairwise comparison; Utilizing Granger Causality test to examine the predictive relationship of soil moisture (SM) and PPT; Validating PPT by comparing peaks of SM and PPT; Proving that independent datasets are informative for predicting short term missing values, which contributes to the study of regions with fewer data and information.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#nationbuilder",
+    "href": "projects/projects-23-24.html#nationbuilder",
+    "title": "2023-2024 Projects",
+    "section": "NationBuilder",
+    "text": "NationBuilder\nComplex Classification with Large Language Models\nStudent team: Aarya Kulkarni, Pippa Lin, Jinran Jin, Irena Wong, Ashwath Ekambaram, Sharon Lee, Erica Chen Mentors: Michael Schmidt Advisors: Erika McPhillips, Avani Tanni\nThe advent of large language models (LLMs) allows us to envision AI systems that can perform complex classification tasks without extensive pretraining. Our capstone group used public website content from organizations to determine if it can be accurately classified against political typology systems. We created prompts for LLMs to score content alignment with ideologies with detailed scoring and justification. We then developed a workflow to process organization website data through our prompts to categorize them based on a pre-defined typology system. Finally, we studied the results by visualizing the ideology distribution among organizations in the United States.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#peak-performance-project-p3",
+    "href": "projects/projects-23-24.html#peak-performance-project-p3",
+    "title": "2023-2024 Projects",
+    "section": "Peak Performance Project (P3)",
+    "text": "Peak Performance Project (P3)\nNBA Injury Prevention: Predicting Player Injury and Analyzing Risk Factors\nStudent team: Mu Niu, Kayla Katakis, Rohan Anand Mentors: Sloan Hanson, Eric Leidersdorf Advisors: Jeffrey Wu, Alexander Franks\nIn the competitive arena of the NBA, player injuries not only impact team performance and player careers but also impose significant financial and operational costs. The ability to understand, predict, and prevent these injuries is of paramount importance, as it holds the potential to enhance player longevity and team success. This research project seeks to harness the rich biomechanical datasets available from P3 Peak Performance Project to correlate these performance metrics with historical injury data to: (1) develop a series of binary classification models capable of identifying athletes susceptible to lower back and hamstring injury following an assessment with P3; and (2) identify the variables driving this susceptibility. With rigorous feature selection, synthetic sampling, and XGBoost modelling, we were able to predict player injury with 86% accuracy and conclude that hip movement and ground contact heavily influence injury risk in NBA players.\n\n\n\n\nPeak Performance Analytics for Basketball Prospects\nStudent team: Jimmy Dysart, Sanaz Ebrahimi, Aaron Lee, Matthew Lee Mentors: Sloan Hanson, Eric Leidersdorf Advisors: Erika McPhillips, Alexander Franks\nThe motivation of this project is to build an interactive R Shiny app for visualizing NBA player comparisons across a series of metrics. Utilizing P3ʼs in-house testing biomechanical data and publicly-accessible collegiate data, the approach to the objective was to build a successful distance formula to compare physical attributes, movement patterns, and play-style to current NBA players. A key problem that we ran into is quantifying the comparison of on-court playstyles. To combat this issue we selected euclidean and mahalanobis distances with Principal Component Analysis (PCA) to find the most accurate player matches. With this work done we found and built a successful R Shiny app that can accurately compare NBA draft prospects to NBA players across these metrics.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#ucsb-political-science-2035-initiative",
+    "href": "projects/projects-23-24.html#ucsb-political-science-2035-initiative",
+    "title": "2023-2024 Projects",
+    "section": "UCSB Political Science, 2035 Initiative",
+    "text": "UCSB Political Science, 2035 Initiative\nClimatic Conversations: On the Beliefs and Motivations of the Public and Politicians on Climate Policy\nStudent team: Manuri Alwis, Molata Fu, Amy Lyu, Kyle Wu Mentors: Matto Mildenberger Advisors: Sofia Ingersoll, Jose Nino\nPoliticians are often the key driving force behind the legislative implementation of climate policy. Equally important, however, is how politicians shape public opinion regarding global climate issues. Utilizing an experiment embedded within a broader Facebook climate survey from the 10-largest polluting countries in the world, we randomly assigned survey takers to watch either no video, or a brief video of either President Trump or President Biden talking about the Paris Climate Accord. We find that there is significant evidence that the methods through which American presidents discuss climate issues has a sway on how the public perceives the importance of various climate policies, including the implementation of a carbon tax and whether their home country should strengthen or weaken its climate policies both legislatively and financially.",
+    "crumbs": [
+      "Projects",
+      "2023-2024 Projects"
+    ]
+  },
+  {
+    "objectID": "projects/projects-23-24.html#stanford-national-accelerator-laboratory",
+    "href": "projects/projects-23-24.html#stanford-national-accelerator-laboratory",
+    "title": "2023-2024 Projects",
+    "section": "Stanford National Accelerator Laboratory",
+    "text": "Stanford National Accelerator Laboratory\nPredicting the Geometry of X-Ray Crystallography Diffraction Images Using Computer Vision\nStudent team: David Lin, Azfal Peermohammed, Jade Thai, Haoran Yan, Chris Zhao, Sichen Zhong Mentors: Derek Mendez Advisors: Laura Baracaldo\nIn protein X-ray crystallography, protein crystals are exposed to X-ray beams, and the resulting diﬀraction patterns are recorded on two-dimensional images. By processing these diﬀraction images, researchers can obtain atomic-scale information about the proteinʼs structure. This is invaluable for our understanding of how proteins operate in fields like therapeutics and energy production. Before we can extract any information about the structure of the protein, we must first understand the geometry of the diﬀraction images utilizing structures called Bragg peaks. Two quantities of interest are the so-called “beam center” and the “detector tilt”. The beam center is the point where the incident X-ray beam vector intersects the camera, and the tilt is the angle the detector face makes relative to a plane perpendicular to the incoming X-rays. The goal of this project will be to use artificial intelligence to process X-ray diﬀraction images to determine beam center and tilt.",
     "crumbs": [
       "Projects",
       "2023-2024 Projects"

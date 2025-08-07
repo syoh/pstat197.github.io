@@ -1,31 +1,23 @@
 ---
-title: "2024-2025 Projects"
+title: "2023-2024 Projects"
 ---
 
 Listed alphabetically by project sponsor.
 
-## Amgen
+## Appfolio
 
-***Evaluation of natural language processing algorithms used for knowledge graph generation***
+***Large language model integrated chatbot***
 
-**Student team:** Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao
+**Student team:** Dylan Fu, Amber Wang, Christopher Straw, Griffin Sheppard, Sharanya Sharma, Yibo Liang
 
-**Advisors:** Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev
+**Mentors:** *Jordan Tran*, *Ari Polakof*
 
-A Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.
+**Advisors:** Jose Niño, Laura Baracaldo
 
-![Figure: Left, example knowledge graph with three entity types and two relations. Right, summary of example relations for possible entity type pairs.](img/23/Amgen_figure.jpg){width="444"}
-
-The process of updating and expanding a KG can be manual and laborious and require ongoing collaboration with subject matter experts. Natural language processing (NLP) and text-mining algorithms could streamline this process by automatically extracting essential information about objects, concepts, and their relations. Once deployed, these algorithms could populate nodes and edges of a KG in an automated fashion based on incoming data.
-
-Two crucial processes in generating nodes and edges of the KG are Named Entity Recognition and Linking (NER/NEL) and Relation Extraction (RE). NER/NEL automatically analyzes free text to recognize character substrings that identify entities of interest, while RE identifies entity pairs with certain relations.
-
-As NER/NEL and RE are necessary steps in generating nodes and edges of the KG, it is critically important that these algorithms accurately extract entities and their relations from free text. To quantify performance of NER/NEL and RE, benchmarking datasets are often used. The entity and relation labels in these datasets are either annotated manually by subject matter experts or algorithmically using semi-supervised and/or rule-based approaches.
-
-The focus of this project lies in identifying open-source NER/NEL and RE algorithms that show the highest performance in recognizing such entities as "company", "molecule", "protein" and their relations. A critical aspect of the work will be in generating a benchmarking dataset using publicly available data.
+Appfolio’s real estate management software enables its clients to capture real-time data about their properties. However, this data can be hard to interpret for clients without data analytics skills. LLMs can be used to bridge that gap, converting clients’ natural language questions first into executable code and then into natural language answers. This project aims to: Integrate large language models (LLMs) with Appfolio’s property management data and create user-friendly UI for answering questions. Develop an evaluation pipeline to assess LLM accuracy and enable iterative improvements to the LLM system.
 
 ::: column-screen
-![](posters-22-23/amgen.png)
+![](posters-23-24/Capstone Poster Appfolio.png)
 :::
 
 

@@ -9,9 +9,9 @@ Note: The page is currently under construction as we implement updates for the u
 
 ## Announcements
 
--   Applications for the 2025-2026 capstone class are open until **Friday, August 1st, 2025**! Add codes will be distributed to admitted students on September 9th, 2025.  [Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)
-<!-- -   [Interest form](https://forms.gle/kD9v9sJ5V2XxNF9N6) for project sponsorship proposals now available; read more on our [info for sponsors page](info-for-sponsors.qmd) -->
-<!-- -   2022-2023 capstone posters are now available on the [projects page](projects/projects-22-23.qmd) -->
+-   Applications for the 2025-2026 capstone class are **closed**. Add codes will be distributed to admitted students on September 9th, 2025. 
+<!-- -   [Interest form](https://docs.google.com/forms/d/e/1FAIpQLSchT4XttKkygS9OGAWsaIFZk2-3pmehVmF7DQw_i5F8K2yH2w/viewform?usp=sharing&ouid=105806164774052231653) for project sponsorship proposals now available; read more on our [info for sponsors page](info-for-sponsors.qmd) -->
+<!-- -   2024-2025 capstone posters are now available on the [projects page](projects/projects-24-25.qmd) -->
 :::
 
 ![2024-2025 Capstone Students](img/2024-group-photo.jpg)

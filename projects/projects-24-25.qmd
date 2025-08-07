@@ -32,6 +32,10 @@ Bees are vital pollinators, yet the entomological data needed to support their c
 
 Students will explore how to answer questions like “Which bees are colored green in Santa Barbara County?” and “What plants should I plant for spring-flying bees in Goleta?” by integrating floral records, nesting data, taxonomic texts, and bee images. The final product will support conservation strategies, research, and educational outreach across California.
 
+::: column-screen
+![](posters-24-25/CHAT G-BEE-T Poster Presentation.png)
+:::
+
 ---
 
 ## Geography Department
@@ -42,6 +46,10 @@ Students will explore how to answer questions like “Which bees are colored gre
 **Mentor:** *Shraddhanand Shukla*
 
 This project will investigate climatic and socioeconomic factors influencing crop yields in sub-Saharan Africa, with the goal of improving predictive models that support early warnings for food insecurity. Students will work with remote sensing data, socioeconomic indicators, and statistical or machine learning models to identify key yield determinants and help build tools that anticipate regional food crises.
+
+::: column-screen
+![](posters-24-25/Team_Geography.pdf)
+:::
 
 ---
 
@@ -133,30 +141,3 @@ The work contributes to improving early warning systems for climate-driven hazar
 This project will model demographic and employment trends for energy-sector workers in the SLO–SB–Ventura region. Students will work with American Community Survey (ACS) and BLS/O*NET datasets to generate zip-code-level profiles of energy jobs and labor skills over time.
 
 The output will be a spatially rich report showing how workforce patterns intersect with the renewable energy transition—supporting the 2035 Initiative's efforts to build equitable, region-specific climate policy.
-
-
-## Amgen
-
-***Evaluation of natural language processing algorithms used for knowledge graph generation***
-
-**Student team:** Yujie Li, Caroline He, Sammy Suliman, Safiya Alavi, KunXiao Gao
-
-**Advisors:** Maxim Ivanov, Bonnie Jin, Erika McPhilliips, Yan Lashchev
-
-A Knowledge Graph (KG) represents knowledge as a network that relates entities such as physical objects and concepts. In a KG, the objects and concepts are represented as nodes, while their relations are represented as edges of the graph. Due to the graph structure of this knowledge representation, a KG can be a potent mechanism for searching entities and their relations, discovering new information and enabling complex decision making.
-
-![Figure: Left, example knowledge graph with three entity types and two relations. Right, summary of example relations for possible entity type pairs.](img/23/Amgen_figure.jpg){width="444"}
-
-The process of updating and expanding a KG can be manual and laborious and require ongoing collaboration with subject matter experts. Natural language processing (NLP) and text-mining algorithms could streamline this process by automatically extracting essential information about objects, concepts, and their relations. Once deployed, these algorithms could populate nodes and edges of a KG in an automated fashion based on incoming data.
-
-Two crucial processes in generating nodes and edges of the KG are Named Entity Recognition and Linking (NER/NEL) and Relation Extraction (RE). NER/NEL automatically analyzes free text to recognize character substrings that identify entities of interest, while RE identifies entity pairs with certain relations.
-
-As NER/NEL and RE are necessary steps in generating nodes and edges of the KG, it is critically important that these algorithms accurately extract entities and their relations from free text. To quantify performance of NER/NEL and RE, benchmarking datasets are often used. The entity and relation labels in these datasets are either annotated manually by subject matter experts or algorithmically using semi-supervised and/or rule-based approaches.
-
-The focus of this project lies in identifying open-source NER/NEL and RE algorithms that show the highest performance in recognizing such entities as "company", "molecule", "protein" and their relations. A critical aspect of the work will be in generating a benchmarking dataset using publicly available data.
-
-::: column-screen
-![](posters-22-23/amgen.png)
-:::
-
-

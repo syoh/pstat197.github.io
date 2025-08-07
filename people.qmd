@@ -18,11 +18,12 @@ title: 'People'
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project advisors
+### Project mentors
+(in alphabetical order by last name)
 
 TBD
 
-### Project mentors
+### Project advisors
 (in alphabetical order by last name)
 
 -   *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
@@ -37,7 +38,7 @@ TBD
 
 *Dr. Kathleen Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project advisors
+### Project mentors
 
 -   *Michaela Alksne*, UCSD Scripps Institute of Oceanography
 
@@ -59,7 +60,7 @@ TBD
 
 -   *Derek Mendez*, SLAC National Accelerator Laboratory
 
-### Project mentors
+### Project advisors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -157,7 +158,7 @@ TBD
 
 *Dr. Laura Baracaldo,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project advisors
+### Project mentors
 
 -   *Jordan Tran,* Appfolio
 
@@ -177,7 +178,7 @@ TBD
 
 -   *Derek Mendez,* SLAC National Accelerator Laboratory
 
-### Project mentors
+### Project advisors
 
 -   *Dr. Laura Baracaldo,* Visiting Assistant Professor, Statistics
 
@@ -197,7 +198,7 @@ TBD
 
 *Dr. Trevor Ruiz*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
 
-### Project advisors
+### Project mentors
 
 Maxim Ivanov and Bonnie Jin, Amgen
 
@@ -225,7 +226,7 @@ Eric Leidersdorf, Peak Performance Project
 
 Derek Mendez, Stanford National Accelerator Lab
 
-### Project mentors
+### Project advisors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -375,7 +376,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Trevor Ruiz, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project advisors
+### Project mentors
 
 Chad Spensky and Rita Mounir, Allthenticate
 
@@ -403,7 +404,7 @@ Rebert Bernard, Pricewaterhouse Coopers
 
 Tommy Sprague, Sprague Lab
 
-### Project mentors
+### Project advisors
 
 Dr. Trevor Ruiz, Statistics and Applied Probability
 
@@ -553,7 +554,7 @@ Dr. Alex Franks, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
 Dr. Sang-Yun Oh, Statistics and Applied Probability (PSTAT197B-C/CMPSC190DE-DF)
 
-### Project advisors
+### Project mentors
 
 Peng-Yuan Lai and Soeren Thust, Appfolio
 
@@ -577,7 +578,7 @@ Juliana Acosta Uribe and Ken Kosik, Neuroscience Research Institute
 
 Namino Glantz and David Kerr, Sansum Diabetes Research Institute
 
-### Project mentors
+### Project advisors
 
 Dr. Ambuj Singh, Computer Science
 

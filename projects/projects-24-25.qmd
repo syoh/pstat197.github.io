@@ -10,6 +10,7 @@ Listed alphabetically by project sponsor.
 
 **Student team:** David Pan, Jiajia Feng, Liuqian Bao, Caitlyn Vasquez, Jade O'Brien, Ivy Li  
 **Mentor:** *Erin Satterthwaite*
+**Advisors:** Erika McPhillips
 
 The goal of this project is to apply the habitat compression threshold concept being used in modeling studies (e.g., LiveOcean/ROMS-BEC) to the CalCOFI Ocean Acidification (OA) dataset, to understand how environmental conditions like pH and carbonate chemistry impact marine species.
 
@@ -27,6 +28,7 @@ Students will apply species-specific habitat compression thresholds to the OA da
 
 **Student team:** Sean Reagan, Bennett Bishop, Keon Dibley, Daniel Yan, Kasturi Sharma, Casey Linden  
 **Mentor:** *Maddie Oswald*
+**Advisors:** Katja Seltmann
 
 Bees are vital pollinators, yet the entomological data needed to support their conservation is often too specialized for general-purpose LLMs. This project aims to develop a bee-specific LLM trained on curated datasets from the Big-Bee lab at UCSB's Cheadle Center.
 
@@ -46,6 +48,10 @@ Students will explore how to answer questions like “Which bees are colored gre
 **Mentor:** *Shraddhanand Shukla*
 
 This project will investigate climatic and socioeconomic factors influencing crop yields in sub-Saharan Africa, with the goal of improving predictive models that support early warnings for food insecurity. Students will work with remote sensing data, socioeconomic indicators, and statistical or machine learning models to identify key yield determinants and help build tools that anticipate regional food crises.
+
+::: column-screen
+![](posters-24-25/Team_Geography.png)
+:::
 
 ---
 

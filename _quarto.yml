@@ -37,6 +37,11 @@ website:
           - projects/projects-22-23.qmd
           - projects/projects-21-22.qmd
           - projects/projects-20-21.qmd
+      - section: "Courses"
+        contents:
+          - href: https://pstat197.github.io/pstat197a/
+            text: PSTAT 197A
+
 
 format:
   html:

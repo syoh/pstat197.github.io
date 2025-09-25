@@ -4,7 +4,7 @@ title: "2022-2023 Projects"
 
 Listed alphabetically by project sponsor.
 
-## Appfolio
+## Amgen
 
 ***Evaluation of natural language processing algorithms used for knowledge graph generation***
 

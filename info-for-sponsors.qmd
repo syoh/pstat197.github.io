@@ -5,7 +5,7 @@ editor: visual
 
 We are considering projects for the 2025-2026 academic year on a rolling basis through November 1, 2025. The process for proposing a project is as follows:
 
-1.  Provide a short pitch by filling out our \[[interest form](https://docs.google.com/forms/d/e/1FAIpQLSchT4XttKkygS9OGAWsaIFZk2-3pmehVmF7DQw_i5F8K2yH2w/viewform?usp=sharing&ouid=105806164774052231653)\].
+1.  Provide a short pitch by filling out our \[[interest form](https://forms.gle/EiSiqiBAnWPSDdxA6)\].
 2.  If your project seems like a good fit, we will contact you to request a project abstract.
 3.  The lead capstone instructor, Dr. Coburn, will review your abstract and either accept the project, propose revisions, or decline the project.
 4.  Project abstracts must be finalized by November 15, 2025 for distribution to students to solicit student preferences regarding team assignments.
@@ -64,7 +64,7 @@ UCSB provides:
 
 -   at least one faculty or graduate student advisor to join project meetings and assist students in meeting project goals;
 
--   student research team matched to the project based on interests and skills; 
+-   student research team matched to the project based on interests and skills;
 
 -   meeting space and research computing resources.
 

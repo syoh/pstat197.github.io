@@ -36,7 +36,7 @@ Project work takes place in Winter and Spring quarters each year. As such, we fo
 
 -   *June -- October*: project recruitment for upcoming year
 
--   *October -- November*: development of project plans in collaboration with sponsors
+-   *October -- November*: development of project plans in collaboration with mentors
 
 -   *December*: assignment of students and a faculty or graduate student advisor to the project
 

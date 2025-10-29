@@ -3,13 +3,13 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - info-for-students.qmd
+    - info-for-mentors.qmd
     - info-for-sponsors.qmd
     - people.qmd
     - projects/*
 
 website:
-  page-footer: "Site content credit to Kathleen Coburn and Trevor Ruiz, created with Quarto. Hex logo by Priscilla Siow."
+  page-footer: "Site content credit to Trevor Ruiz and Tony Coburn, created with Quarto. Hex logo by Priscilla Siow."
   google-analytics: "G-2RLZ4ZPF1B"
   # reader-mode: true
   repo-url: "https://github.com/pstat197/pstat197.github.io"
@@ -28,7 +28,7 @@ website:
       - href: index.qmd
         text: Home
       - info-for-students.qmd
-      - info-for-sponsors.qmd
+      - info-for-mentors.qmd
       - people.qmd
       - section: "Projects"
         contents:

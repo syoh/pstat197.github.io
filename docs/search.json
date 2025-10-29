@@ -407,8 +407,8 @@
     ]
   },
   {
-    "objectID": "info-for-sponsors.html",
-    "href": "info-for-sponsors.html",
+    "objectID": "info-for-mentors.html",
+    "href": "info-for-mentors.html",
     "title": "Propose a project",
     "section": "",
     "text": "We are considering projects for the 2025-2026 academic year on a rolling basis through November 1, 2025. The process for proposing a project is as follows:\nWe are happy to provide consultations at any point in this process. Please see the people page for current program contacts.",
@@ -417,8 +417,8 @@
     ]
   },
   {
-    "objectID": "info-for-sponsors.html#why-participate",
-    "href": "info-for-sponsors.html#why-participate",
+    "objectID": "info-for-mentors.html#why-participate",
+    "href": "info-for-mentors.html#why-participate",
     "title": "Propose a project",
     "section": "Why participate?",
     "text": "Why participate?\nData science capstone projects at UCSB are, above all, about creating educational and professional opportunities for students. We want to work with project mentors who share our commitment to student learning.\nParticipation can benefit mentors by providing pilot research or advancing existing projects, and can also provide opportunities to form new partnerships and collaborations and potentially recruit talent.",
@@ -427,8 +427,8 @@
     ]
   },
   {
-    "objectID": "info-for-sponsors.html#tips-for-success",
-    "href": "info-for-sponsors.html#tips-for-success",
+    "objectID": "info-for-mentors.html#tips-for-success",
+    "href": "info-for-mentors.html#tips-for-success",
     "title": "Propose a project",
     "section": "Tips for success",
     "text": "Tips for success\nWe have found that successful projects include students in making novel contributions to a broader research agenda based on concrete starting points. In other words, projects tend to be productive when there is a clear focus and purpose. In our view, mutually beneficial success is most likely when mentors:\n\nare invested in students’ intellectual and professional development;\nhave identified a well-defined data science problem of clear value to their agenda or organization;\ncan provide initial work (analysis, codes, relevant literature) and hands-on direction and training to students at the beginning of the project to facilitate a quick start.\n\nProjects tend to be less productive in the absence of very specific direction and engagement on the part of the mentor at the outset of the project – this often results in protracted exploratory analyses lacking focus. Typically, given the proper initial support, students are able to make ongoing progress with a fair degree of autonomy after a few weeks.",
@@ -437,18 +437,18 @@
     ]
   },
   {
-    "objectID": "info-for-sponsors.html#timeline",
-    "href": "info-for-sponsors.html#timeline",
+    "objectID": "info-for-mentors.html#timeline",
+    "href": "info-for-mentors.html#timeline",
     "title": "Propose a project",
     "section": "Timeline",
-    "text": "Timeline\nProject work takes place in Winter and Spring quarters each year. As such, we follow this approximate timeline:\n\nJune – October: project recruitment for upcoming year\nOctober – November: development of project plans in collaboration with sponsors\nDecember: assignment of students and a faculty or graduate student advisor to the project\nJanuary: project work begins\nJune: project work concludes with poster showcase on UCSB’s campus\n\nThe general expectation is that datasets are in hand by the time project work begins. However, in some cases, projects may start with pilot data.",
+    "text": "Timeline\nProject work takes place in Winter and Spring quarters each year. As such, we follow this approximate timeline:\n\nJune – October: project recruitment for upcoming year\nOctober – November: development of project plans in collaboration with mentors\nDecember: assignment of students and a faculty or graduate student advisor to the project\nJanuary: project work begins\nJune: project work concludes with poster showcase on UCSB’s campus\n\nThe general expectation is that datasets are in hand by the time project work begins. However, in some cases, projects may start with pilot data.",
     "crumbs": [
       "Propose a project"
     ]
   },
   {
-    "objectID": "info-for-sponsors.html#logistics",
-    "href": "info-for-sponsors.html#logistics",
+    "objectID": "info-for-mentors.html#logistics",
+    "href": "info-for-mentors.html#logistics",
     "title": "Propose a project",
     "section": "Logistics",
     "text": "Logistics\nProject mentors should be able to provide:\n\nproject objectives and datasets;\nat least one representative who is available to meet for one hour weekly or biweekly with the project team (virtual meetings are fine) during the working period (January – June);\n(non-academic advisors only:) a mandatory participation fee of $1,500 to support the project showcase and prizes for best projects\n\nNote that it is possible for project mentors to participate entirely online, and mentors can choose to meet with students either on Zoom or equivalent, or in person. We welcome both local and long-distance mentors to participate in the capstone.\nUCSB provides:\n\nconsultation on project plan development;\nat least one faculty or graduate student advisor to join project meetings and assist students in meeting project goals;\nstudent research team matched to the project based on interests and skills;\nmeeting space and research computing resources.",
@@ -457,8 +457,8 @@
     ]
   },
   {
-    "objectID": "info-for-sponsors.html#disclosure-agreements",
-    "href": "info-for-sponsors.html#disclosure-agreements",
+    "objectID": "info-for-mentors.html#disclosure-agreements",
+    "href": "info-for-mentors.html#disclosure-agreements",
     "title": "Propose a project",
     "section": "Disclosure agreements",
     "text": "Disclosure agreements\nMentors may wish to establish disclosure agreements covering the scope of project work. Typically such agreements pertain to data and information provided by the project mentor for educational purposes, and are entered into by the university with the support of capstone program staff. Any such agreements are binding on students and faculty as university representatives.\nIn the 2025-2026 academic year, we will be providing a standard nondisclosure agreement on request. We are happy to consider modifications to the standard agreement provided they are not overly restrictive – students will need to discuss their work with the class and prepare a public poster presentation in order to earn university credit. It should be noted that the university cannot enter into agreements pertaining to ownership of project deliverables – students retain rights to work that they produce for academic credit.",
@@ -471,59 +471,9 @@
     "href": "index.html",
     "title": "Data science capstone at UCSB",
     "section": "",
-    "text": "NoteAnnouncements\n\n\n\n\nApplications for the 2025-2026 capstone class are closed. Add codes will be distributed to admitted students on September 9th, 2025.\nInterest form for project sponsorship proposals now available; read more on our info for sponsors page\n2024-2025 capstone posters are now available on the projects page\n\n\n\n\n\n\n2024-2025 Capstone Students\n\n\nWelcome to the homepage for UC Santa Barbara’s data science capstone.\nThe capstone aims to provide students with hands-on research training and career development opportunities related to data science. It is equally suitable for students interested in entering the job market as it is for those considering graduate school – we partner with both industry and academic project advisors to offer research experiences spanning a breadth of application domains!\nFor participating students, the capstone is a year-long course sequence comprising two distinct portions: a preparatory course in data science topics and collaborative research skills (PSTAT197A/CMPSC190DD, offered Fall term) and two experiential learning courses in which students work in teams on interdisciplinary projects sponsored by an external partner and advised by a technical specialist (PSTAT197B-C/CMPSC190DE-DF, offered Winter and Spring terms). The course sequence culminates with a public showcase of student work.\nFor participating project advisors, the program offers opportunities to engage in mentorship, advance research agendas, and establish collaborative partnerships.",
+    "text": "NoteAnnouncements\n\n\n\n\nApplications for the 2025-2026 capstone class are closed. Add codes will be distributed to admitted students on September 9th, 2025.\nInterest form for project mentorship proposals now available; read more on our info for mentors page\n2024-2025 capstone posters are now available on the projects page\n\n\n\n\n\n\n2024-2025 Capstone Students\n\n\nWelcome to the homepage for UC Santa Barbara’s data science capstone.\nThe capstone aims to provide students with hands-on research training and career development opportunities related to data science. It is equally suitable for students interested in entering the job market as it is for those considering graduate school – we partner with both industry and academic project advisors to offer research experiences spanning a breadth of application domains!\nFor participating students, the capstone is a year-long course sequence comprising two distinct portions: a preparatory course in data science topics and collaborative research skills (PSTAT197A/CMPSC190DD, offered Fall term) and two experiential learning courses in which students work in teams on interdisciplinary projects mentored by an external partner and advised by a technical specialist (PSTAT197B-C/CMPSC190DE-DF, offered Winter and Spring terms). The course sequence culminates with a public showcase of student work.\nFor participating project advisors, the program offers opportunities to engage in mentorship, advance research agendas, and establish collaborative partnerships.",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "info-for-students.html",
-    "href": "info-for-students.html",
-    "title": "Information for students",
-    "section": "",
-    "text": "The goal of the capstone is to provide training in collaborative data science, hands-on research experience, and career development opportunities to students who are about to enter the job market or who are considering graduate school.\nThe capstone is designed primarily for senior students of any discipline having an intermediate level of experience with applied quantitative methods of any kind and some exposure to programming. It is not expected that students will have obtained any specialized background or completed advanced coursework prior to participating, and students from non-PSTAT major programs are encouraged to apply. Here you can find information on eligibility, how to apply, and program outcomes.",
-    "crumbs": [
-      "Information for students"
-    ]
-  },
-  {
-    "objectID": "info-for-students.html#how-to-apply",
-    "href": "info-for-students.html#how-to-apply",
-    "title": "Information for students",
-    "section": "How to apply",
-    "text": "How to apply\nApplications open in Spring quarter and remain open through summer. To apply, simply fill out the application form linked below (the form will be live while applications are open).\n[Application form]\nApplications will be reviewed beginning August 1st, 2025 and on a rolling basis thereafter. An initial cohort will be notified by September 9th, 2025 and will be provided with add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. Once all seats in the course have been filled, the application will be closed.",
-    "crumbs": [
-      "Information for students"
-    ]
-  },
-  {
-    "objectID": "info-for-students.html#what-to-expect",
-    "href": "info-for-students.html#what-to-expect",
-    "title": "Information for students",
-    "section": "What to expect",
-    "text": "What to expect\nStudents can expect to gain training and skills in collaborative data science and produce a strong work sample by the end of the program. All students will prepare a poster presentation for a public showcase of student work toward the end of the year. Posters will also be published online.\nDepending on the project, students may also contribute during or after the project work period to other outputs such as public repositories, software products, conference presentations, or publications.\nBesides project outputs, students receive mentorship from their project advisors throughout the course of the experiential learning component of the capstone. Students also gain access to the network of current and past participants and project sponsors for career development purposes.",
-    "crumbs": [
-      "Information for students"
-    ]
-  },
-  {
-    "objectID": "info-for-students.html#prerequisites-and-eligibility",
-    "href": "info-for-students.html#prerequisites-and-eligibility",
-    "title": "Information for students",
-    "section": "Prerequisites and eligibility",
-    "text": "Prerequisites and eligibility\nThe prerequisites for the capstone are exposure to (1) computing, (2) statistics and probability, and (3) regression. Since the program is interdisciplinary and intended to be accessible to non-PSTAT majors, these requirements are not strictly tied to any specific courses.\nFor the PSTAT student, completion of regression analysis (PSTAT126) should suffice. For the non-PSTAT student, any prior experience with statistical concepts, quantitative models, and computing will be considered.\nStudents should be of junior or senior standing by the term they would begin the capstone (i.e., Fall of the year of application). A full-year commitment is expected to participate, so seniors expecting to graduate early may not be eligible; students who are able to commit to enrolling in all three courses will be prioritized for admission. Younger students, even if otherwise eligible, will be encouraged to reapply in a later year.\nStudents should have a strong academic record and be motivated to learn independently and work on a research problem.",
-    "crumbs": [
-      "Information for students"
-    ]
-  },
-  {
-    "objectID": "info-for-students.html#faq",
-    "href": "info-for-students.html#faq",
-    "title": "Information for students",
-    "section": "FAQ",
-    "text": "FAQ\nHow are students selected for enrollment in the class?\nApplications are screened to ensure participation requirements are met: completion of prerequisites, good academic record, and junior or senior standing. Among students who meet these participation requirements, applications will be reviewed by a committee and evaluated based on their sample of prior work and their motivation for application to the program. Once the committee has obtained a final pool of potential candidates, students will be selected from that pool by random lottery.\nIs there a GPA requirement?\nYour GPA does contribute in determining eligibility to participate (a higher GPA corresponds to a better academic record), but there is not a hard cutoff.\nWhat happens if I am waitlisted?\nIf you are waitlisted, that means that you met all requirements to join the class but were ultimately not chosen in the random lottery. If so, you will be considered for any seats that open up before the start of the quarter; selection for these seats is also carried out by random lottery.\nAre there any specific languages/packages I need to know?\nNo. The requirement is that you have intermediate proficiency (use in 2+ courses or equivalent) in some language so that you are familiar with programming concepts and able to learn further skills semi-independently (i.e., with the help of a book or tutorial). Most students will have had some experience with R or Python, and some with similar languages such as Matlab, Mathematica, or Julia. However, what constitutes ‘experience’ is pretty broad, and can range from a few courses to a few years of use. Regardless of experience, almost everyone will develop new programming skills ‘on-the-job’ in the course of their projects. All projects are different and students do not need a specific background to succeed.\nAre there any recommended classes that would prepare me for the capstone?\nCMPSC 5A-B and PSTAT 100 are widely accessible data science courses that can be taken in sequence over the course of a year and generally will provide good preparation for the capstone and exposure to programming in Python. PSTAT students may elect to take the statistical learning course (PSTAT 131) for additional preparation. Non-PSTAT majors would benefit from any quantitative methods courses offered in their home department. More broadly, any course(s) that reinforce programming skills and data analysis will be beneficial.\nHow are students assigned to capstone projects in the program?\nStudents have the opportunity to review proposed project abstracts and specify a set of preferred assignments. Preferences are considered together with technical skills, domain backgrounds, and factors affecting group dynamics in forming project teams, so we cannot guarantee students will receive their top choices. Ultimately, project assignments are made at the discretion of instructors.\nWill I get a job or internship through the program if my project is successful?\nThis is not guaranteed. Project sponsors’ commitments conclude at the end of the academic year. In some instances, sponsors have the resources and interest to support summer interns or entry-level hires, but this is entirely at their discretion. We have had students recruited in the past this way, but they comprise a minority of all program participants.",
-    "crumbs": [
-      "Information for students"
     ]
   },
   {
@@ -531,7 +481,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "NoteContacts for 2025-2026 capstone\n\n\n\n\nKathleen M. Coburn, lecturer and capstone instructor: project mentorship and course information for 2025-2026 [email]\nSang-Yun Oh, associate professor: business liason, computational resource contact [email]\nJessie Priestley: program oversight, direction/coordination, marketing, funding management [email]\nParticipants listed by year, in alphabetical order by last name.",
+    "text": "NoteContacts for 2025-2026 capstone\n\n\n\n\nAnthony W. Coburn, lecturer and capstone instructor: project mentorship and course information for 2025-2026 [email]\nSang-Yun Oh, associate professor: business liason, computational resource contact [email]\nJessie Priestley: program oversight, direction/coordination, marketing, funding management [email]\nParticipants listed by year, in alphabetical order by last name.",
     "crumbs": [
       "People"
     ]
@@ -541,7 +491,7 @@
     "href": "people.html#section",
     "title": "People",
     "section": "2025-2026",
-    "text": "2025-2026\n\nInstructor\nDr. Kathleen Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject mentors\n(in alphabetical order by last name)\nTBD\n\n\nProject advisors\n(in alphabetical order by last name)\n\nDr. Kathleen Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\nYan Lashchev, Undergraduate Program Advisor, Statistics",
+    "text": "2025-2026\n\nInstructor\nDr. Anthony (Tony) Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\n\n\nProject mentors\n(in alphabetical order by last name)\nTBD\n\n\nProject advisors\n(in alphabetical order by last name)\n\nTony Coburn, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)\nYan Lashchev, Undergraduate Program Advisor, Statistics",
     "crumbs": [
       "People"
     ]

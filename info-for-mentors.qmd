@@ -3,12 +3,12 @@ title: "Propose a project"
 editor: visual
 ---
 
-We are considering projects for the 2025-2026 academic year on a rolling basis through November 1, 2025. The process for proposing a project is as follows:
+We are considering projects for the 2025-2026 academic year on a rolling basis through December 1, 2025. The process for proposing a project is as follows:
 
 1.  Provide a short pitch by filling out our \[[interest form](https://forms.gle/EiSiqiBAnWPSDdxA6)\].
 2.  If your project seems like a good fit, we will contact you to request a project abstract.
 3.  The lead capstone instructor, Dr. Coburn, will review your abstract and either accept the project, propose revisions, or decline the project.
-4.  Project abstracts must be finalized by November 15, 2025 for distribution to students to solicit student preferences regarding team assignments.
+4.  Project abstracts must be finalized by December 1, 2025 for distribution to students to solicit student preferences regarding team assignments.
 
 **We are happy to provide consultations at any point in this process.** Please see the [people page](people.qmd) for current program contacts.
 

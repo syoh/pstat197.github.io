@@ -7,8 +7,6 @@ subtitle: "Collaborative research experiences for undergraduates in interdiscipl
 
 ## Announcements
 
--   Applications for the 2025-2026 capstone class are **closed**. Add codes will be distributed to admitted students on September 9th, 2025. 
--   [Interest form](https://forms.gle/EiSiqiBAnWPSDdxA6) for project mentorship proposals now available; read more on our [info for mentors page](info-for-mentors.qmd)
 -   2024-2025 capstone posters are now available on the [projects page](projects/projects-24-25.qmd)
 :::
 

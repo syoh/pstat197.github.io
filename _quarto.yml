@@ -41,7 +41,8 @@ website:
         contents:
           - href: https://pstat197.github.io/pstat197a/
             text: PSTAT 197A
-
+          - href: https://pstat197.github.io/pstat197bc/
+            text: PSTAT 197BC
 
 format:
   html:

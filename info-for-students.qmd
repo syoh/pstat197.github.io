@@ -27,17 +27,15 @@ The capstone is designed primarily for **senior students** of any discipline hav
 -   Students must make a **full year commitment** -- enroll in one 4-credit course each quarter -- to participate
 
 -   Specialized or advanced training in statistical modeling, machine learning, computing, data science, etc. are beneficial, but are ***not required***
-
--   Non-PSTAT students are encouraged to apply
 :::
 
 ## How to apply
 
 Applications open in Spring quarter and remain open through summer. To apply, simply fill out the application form linked below (the form will be live while applications are open).
 
-\[[Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)\]
+<!-- \[[Application form](https://docs.google.com/forms/d/e/1FAIpQLSe0tNoWXC9GKBHxhlqxRxq6Q61iQh0HW-sN_px5emVEphY4Fg/viewform?usp=sharing)\] -->
 
-Applications will be reviewed beginning **August 1st, 2025** and on a rolling basis thereafter. An initial cohort will be notified by **September 9th, 2025** and will be provided with add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. Once all seats in the course have been filled, the application will be closed.
+<!-- Applications will be reviewed beginning **August 1st, 2025** and on a rolling basis thereafter. An initial cohort will be notified by **September 9th, 2025** and will be provided with add codes for enrollment. Other applicants meeting eligibility requirements will be waitlisted, and any remaining seats will be allocated by mid-September prior to the start of the program year. Once all seats in the course have been filled, the application will be closed. -->
 
 ## What to expect
 
@@ -74,7 +72,7 @@ If you are waitlisted, that means that you met all requirements to join the clas
 *Are there any specific languages/packages I need to know?*
 
 No. The requirement is that you have intermediate proficiency (use in 2+ courses or equivalent) in *some* language so that you are familiar with programming concepts and able to learn further skills semi-independently (*i.e.,* with the help of a book or tutorial). Most students will have had some experience with R or Python, and some with similar languages such as Matlab, Mathematica, or Julia. However, what constitutes 'experience' is pretty broad, and can range from a few courses to a few years of use. Regardless of experience, almost everyone will develop new programming skills 'on-the-job' in the course of their projects. All projects are different and students do not need a specific background to succeed.
-
+s
 *Are there any recommended classes that would prepare me for the capstone?*
 
 CMPSC 5A-B and PSTAT 100 are widely accessible data science courses that can be taken in sequence over the course of a year and generally will provide good preparation for the capstone and exposure to programming in Python. PSTAT students may elect to take the statistical learning course (PSTAT 131) for additional preparation. Non-PSTAT majors would benefit from any quantitative methods courses offered in their home department. More broadly, any course(s) that reinforce programming skills and data analysis will be beneficial.

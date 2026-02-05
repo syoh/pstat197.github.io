@@ -5,6 +5,7 @@ project:
     - index.qmd
     - info-for-mentors.qmd
     - info-for-sponsors.qmd
+    - info-for-students.qmd
     - people.qmd
     - projects/*
 

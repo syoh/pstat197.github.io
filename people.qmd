@@ -23,14 +23,153 @@ title: 'People'
 ### Project mentors
 (in alphabetical order by last name)
 
-TBD
+-   *Juliana Acosta-Uribe*, UCSB Neuroscience Research Institute
+
+-   *Brian Codding*, UCSB Geography Dept.
+
+-   *Larissa Heeren*, SLO County Probation Dept.
+
+-   *Tess Ivinjack and Nazhah Mir*, SoundEthics
+
+-   *Eric Leidersdorf*, P3 - Peak Performance Project
+
+-   *Ori Jonathan Porat*, BlueAlpha
+
+-   *Erin Satterthwaite*, CalCOFI
+
+-   *Michael Schmidt*, NationBuilder
+
+-   *Rasmus Swalethorp*, Scripps Institute of Oceanography
+
+-   *Zamir Syed*, Singularity Solutions
+
+-   *Soojin Yi*, UCSB Comparative Genomics & Epigenomics Lab
 
 ### Project advisors
 (in alphabetical order by last name)
 
--   *Tony Coburn,* Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+-   *Abhijit Brahme*, Graduate Student, Statistics and Applied Probability
 
--   *Yan Lashchev,* Undergraduate Program Advisor, Statistics
+-   *Tony Coburn*, Statistics and Applied Probability (PSTAT197A-B-C/CMPSC190DD-DE-DF)
+
+-   *Yan Lashchev*, Undergraduate Program Advisor, Statistics
+
+-   *Olivier Mulkin*, Graduate Student, Statistics and Applied Probability
+
+### Students
+(in alphabetical order by last name)
+
+-   Bahaar Ahuja
+
+-   Eitan Boaz
+
+-   Lucy Cao
+
+-   Sam Caruthers
+
+-   Joy Chang
+
+-   Kaitlyn Chihaoui
+
+-   Lucas Childs
+
+-   Alexander Dieter
+
+-   Priyanka Durai
+
+-   Cathy Fang
+
+-   Aidan Frazier
+
+-   Aarti Garaye
+
+-   Calder Glass
+
+-   Akhil Gorla
+
+-   Anna Gornyitzki
+
+-   Andrew Guerra
+
+-   Phillip Gurevich
+
+-   Benjamin Hurt
+
+-   Johanna Jansen
+
+-   Janice Jiang
+
+-   Shenyi Jiang
+
+-   Josephine Kaminaga
+
+-   Sanil Katula
+
+-   Nathan Kim
+
+-   Aashish Krishnan
+
+-   Jay Leung
+
+-   Sophie Lian
+
+-   Anna Liang
+
+-   Loretta Lu
+
+-   Jasper Luo
+
+-   Kaeya Mehta
+
+-   Alex Morifusa
+
+-   Adarsh Nagar
+
+-   Oscar O'Donnell
+
+-   Minu Pabbathi
+
+-   Taneesha Panda
+
+-   Shahil Patel
+
+-   Brooks Piper
+
+-   Pratyush Rallapally
+
+-   Madhav Rao
+
+-   Srinidhi Sathish
+
+-   Anishkumar Senthil
+
+-   Anjani Sethi
+
+-   Achal Shah
+
+-   Aakash Sriram
+
+-   Satvik Talchuru
+
+-   Emily Tian
+
+-   Quinlan Wilson
+
+-   Jimmy Wu
+
+-   Nicole Xu
+
+-   Charles Yang
+
+-   Ella Yang
+
+-   Naira Younas
+
+-   Justin Zhou
+
+-   Coraline Zhu
+
+-   Wendy Zhu
 
 ## 2024-2025
 

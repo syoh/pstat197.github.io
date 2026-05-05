@@ -7,7 +7,7 @@ subtitle: "Collaborative research experiences for undergraduates in interdiscipl
 ## Announcements
 
 -   Applications for the 2026-2027 capstone program are now **open!** \[[Apply here](https://forms.gle/GHSwMPdaP9DGLokq5)\] by Friday, June 12th for your application to be considered. Admission decisions will be sent out by July 1st. Space is limited and admission is **not guaranteed**.
--   2024-2025 capstone posters are now available on the [projects page](projects/projects-24-25.qmd)
+<!-- -   2024-2025 capstone posters are now available on the [projects page](projects/projects-24-25.qmd) -->
 :::
 
 ![2024-2025 Capstone Students](img/2024-group-photo.jpg)
